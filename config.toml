@@ -1,0 +1,68 @@
+baseurl = "https://mtts.kora.win/"
+title = "水城卓球スクール"
+dateFormat = "2006年01月02日"
+
+languageCode = "ja"
+languageName = "日本語"
+
+hasCJKLanguage = true
+defaultContentLanguageInSubdir = true
+defaultContentLanguage = "ja"
+
+# Pagination
+paginate = 3
+paginatePath = "page"
+
+# Theme to use
+theme = "hugo-bootstrap-5"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Google analytics
+# googleAnalytics = ""
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    url = "/"
+    name = "ホーム"
+    pre = '<i class="fa-solid fa-house"></i>'
+    weight = 1
+  [[menu.main]]
+    identifier = 'school'
+    url = "/school/"
+    pre = '<i class="fa-solid fa-school"></i>'
+    name = "教室紹介"
+    weight = 2
+  [[menu.main]]
+    identifier = 'stuff'
+    url = "/stuff/"
+    pre = '<i class="fa-solid fa-user-tie"></i>'
+    name = "スタッフ"
+    weight = 3
+  [[menu.main]]
+    identifier = 'schedule'
+    url = "/schedule/"
+    pre = '<i class="fa-solid fa-calendar-days"></i>'
+    name = "スケジュール"
+    weight = 4
+  [[menu.main]]
+    identifier = 'post'
+    url = "/post/"
+    pre = '<i class="fa-solid fa-person-running"></i>'
+    name = "活動報告"
+    weight = 5
+  [[menu.main]]
+    identifier = 'access'
+    url = "/access/"
+    pre = '<i class="fa-solid fa-location-dot"></i>'
+    name = "アクセス"
+    weight = 6
+  [[menu.main]]
+    identifier = 'contact'
+    url = "/contact/"
+    pre = '<i class="fa-solid fa-square-phone-flip"></i>'
+    name = "お問合せ"
+    weight = 7

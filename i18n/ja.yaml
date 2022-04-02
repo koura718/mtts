@@ -1,0 +1,38 @@
+- id: by
+  translation: "by"
+
+- id: tags
+  translation: "タグ"
+
+- id: categories
+  translation: "カテゴリ"
+
+- id: readMore
+  translation: " 続きを読む →"
+
+- id: translations
+  translation: "翻訳"
+
+- id: related
+  translation: "関連情報"
+
+- id: post
+  translation: "記事"
+
+- id: recentPosts
+  translation: "最新記事"
+
+- id: backToTop
+  translation: "戻る"
+
+- id: language
+  translation: "言語"
+
+- id: thanks
+  translation: '水城卓球スクール'
+
+- id: recentBlogs
+  translation: "最新の活動"
+
+- id: blog
+  translation: "活動実績"
