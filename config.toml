@@ -23,11 +23,36 @@ theme = "hugo-bootstrap-5"
 # Google analytics
 # googleAnalytics = ""
 
+# Mixin HTML
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      # unsafe = false
+      unsafe = true
+      xhtml = false
+
 [menu]
   [[menu.main]]
     identifier = 'home'
     url = "/"
-    name = "ホーム"
+    name = "水城卓球"
     pre = '<i class="fa-solid fa-house"></i>'
     weight = 1
   [[menu.main]]
