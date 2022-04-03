@@ -3,12 +3,8 @@
 {{ $truncate := default true .Site.Params.truncate }}
 
 {{ if .Content }}
-<header style="z-index: 0;">
-    <h1 class="blog-post-title">
-        <a class="text-dark text-decoration-none" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-    </h1>
-    <hr>
-</header>
+<div id="sticky-space" class="" style="height: 0px;"></div>
+
 <section class="blog-post">
     {{ .Content }}
 </section>
