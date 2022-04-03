@@ -1,12 +1,39 @@
+{{ $_sch := newScratch }}
+{{ $_sch.Add "colors" (slice "info") }}
+{{ $_sch.Add "colors" (slice "warning") }}
+{{ $_sch.Add "colors" (slice "danger") }}
+{{ $_sch.Add "colors" (slice "primary") }}
+{{ $_sch.Add "colors" (slice "success") }}
+{{ $_colors := $_sch.Get "colors" }}
+{{/* index $_colors 2 */}}
+
 <section>
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-        {{ if gt (len $taxonomy) 0 }}
+      {{ if gt (len $taxonomy) 0 }}
+        <hr>
         <h4>{{ i18n $taxonomyname }}</h4>
+
+        {{ if in $taxonomyname "tag" }}
         <p>
             {{ range $name, $value := $taxonomy }}
             <a class="btn btn-primary btn-small badge" href="{{ printf "/%s/" $taxonomyname | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
             {{ end }}
         </p>
+        {{ else }}
+
+          {{ $_sch.Set "_i" 0 }}
+          {{ range $name, $value := $taxonomy }}
+            <div class="d-flex justify-content-between align-items-center bg-{{index $_colors (mod ($_sch.Get "_i") 5)}}-soft rounded p-2 position-relative">
+            <h6 class="m-0 text-warning">{{ $name }}</h6>
+            <a href="{{ printf "/%s/" $taxonomyname | relLangURL }}{{ $name | urlize }}" class="badge bg-{{index $_colors (mod ($_sch.Get "_i") 5)}} text-dark stretched-link">{{ len $value.Pages }}</a>
+            </div>
+            {{ $_sch.Add "_i" 1 }}
+            {{/* mod ($_sch.Get "_i") 5 */}}
+            {{/* index $_colors (mod ($_sch.Get "_i") 5) */}}
+
+          {{ end }}
         {{ end }}
+
+      {{ end }}
     {{ end }}
 </section>
