@@ -11,11 +11,57 @@ author: "水城卓球スクール"
 
 ## 教室紹介
 
-### 大人教室
-
-### ジュニア教室
-
-### 個人レッスン
+<!-- =======================
+Price-1 START -->
+<div class="card-group">
+    <div class="card">
+        <img src="/images/blog/106.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">大人教室</h5>
+            <p class="card-text">18歳以上</p>
+            <ul class="list-group list-group-flush">
+            <li class="list-group-item">会員 1,100円</li>
+            <li class="list-group-item">非会員 1,500円</li>
+            <li class="list-group-item">年会費 10,000円</li>
+            </ul>
+        </div>
+        <div class="card-footer">
+            <small class="text-muted">2022年5月時点</small>
+        </div>
+    </div>
+    <div class="card">
+      <img src="/images/blog/107.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">子供教室</h5>
+            <p class="card-text">中小学生</p>
+            <ul class="list-group list-group-flush">
+            <li class="list-group-item">会員 1,100円</li>
+            <li class="list-group-item">非会員 1,500円</li>
+            <li class="list-group-item">入会金 5,000円</li>
+            </ul>
+        </div>
+        <div class="card-footer">
+            <small class="text-muted">2022年5月時点</small>
+        </div>
+    </div>
+    <div class="card">
+      <img src="/images/blog/103.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">個人レッスン</h5>
+            <p class="card-text">個別指導</p>
+            <ul class="list-group list-group-flush">
+            <li class="list-group-item">会員 4,000円</li>
+            <li class="list-group-item">非会員 4,500円</li>
+            <li class="list-group-item">入会金 5,000円</li>
+            </ul>
+        </div>
+        <div class="card-footer">
+            <small class="text-muted">2022年5月時点</small>
+        </div>
+    </div>
+  </div>
+<!-- =======================
+Price-1 END -->
 
 ### 台貸し
 

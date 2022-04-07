@@ -1,0 +1,58 @@
+{{ $_img := default "111.jpg" "111.jpg" }}
+{{ $_avatar := default "103.jpg" "103.jpg" }}
+
+{{ if in .Permalink "school" }}
+  {{ $_img = "102.jpg" }}
+  {{ $_avatar = "103.jpg" }}
+{{ else if in .Permalink "about" }}
+  {{ $_img = "102.jpg" }}
+  {{ $_avatar = "103.jpg" }}
+{{ else if in .Permalink "stuff" }}
+  {{ $_img = "106.jpg" }}
+  {{ $_avatar = "103.jpg" }}
+{{ else if in .Permalink "schedule" }}
+  {{ $_img = "110.jpg" }}
+  {{ $_avatar = "103.jpg" }}
+{{ else if in .Permalink "access" }}
+  {{ $_img = "109.jpg" }}
+  {{ $_avatar = "103.jpg" }}
+{{ else if in .Permalink "post" }}
+  {{ $_img = "101.jpg" }}
+  {{ $_avatar = "103.jpg" }}
+{{ else if in .Permalink "contact" }}
+  {{ $_img = "108.jpg" }}
+  {{ $_avatar = "103.jpg" }}
+{{ end }}
+
+<!-- =======================
+Main hero START -->
+<section class="py-2 h-400 overflow-hidden position-relative" style="background-image: url(/images/blog/{{$_img}}); background-position: center center;">
+	<div class="container-fluid h-100 p-0">
+    <div class="row align-items-center h-100 text-center">
+      <div class="col-12">
+        <!-- Hero title -->
+        <h1 class="text-white display-4">{{ .Title }}</h1>
+      </div>
+    </div>
+    <!-- Rounded circle text START -->
+    <div class="rotating-text-badge d-none d-lg-block text-uppercase">
+      <!-- SVG START -->
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+        <defs>
+            <path id="circlePath" d="M 150, 150 m -60, 0 a 60,60 0 0,1 120,0 a 60,60 0 0,1 -120,0 "></path>
+        </defs>
+        <circle cx="150" cy="100" r="75" fill="none"></circle>
+        <g>
+          <use xlink:href="#circlePath" fill="none"></use>
+          <text fill="#fff">
+              <textPath xlink:href="#circlePath">Mizuki * Table * Tennis *</textPath>
+          </text>
+        </g>
+      </svg>
+      <!-- SVG START -->
+    </div>
+    <!-- Rounded circle text END -->
+  </div>
+</section>
+<!-- =======================
+Main hero END -->
