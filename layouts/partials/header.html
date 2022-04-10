@@ -3,7 +3,7 @@
 <!-- header class="blog-header" -->
 <header class="navbar-light navbar-sticky header-static">
     <!-- nav class="navbar navbar-expand-md navbar-{{ $colorScheme }} bg-{{ $colorScheme }}" -->
-    <nav class="navbar navbar-expand-lg navbar-{{ $colorScheme }}" style="background-color: rgba(255, 255, 255, 0.0);">
+    <nav class="navbar navbar-expand-lg navbar-{{ $colorScheme }}" style="background-color: rgba(238, 22, 22, 0);">
         <!-- div class="container-fluid" -->
         <div class="container">
             <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
@@ -20,29 +20,29 @@
                         {{ if in .URL "school" }}
                         {{ $menuUrl := .URL | relLangURL }}
                         <!-- a class="nav-link" href="{{ .URL }}">{{ .Name }}</a -->
-                            <a class="nav-link dropdown-toggle {{ if eq $url $menuUrl }}active{{end}}" href="#" id="homeMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span style="font-size: small;">{{ .Name }}</span></a>
+                            <a class="nav-link dropdown-toggle {{ if eq $url $menuUrl }}active{{end}}" href="#" id="homeMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span style="font-size: small; color: #FF5722;">{{ .Name }}</span></a>
                             <ul class="dropdown-menu" aria-labelledby="homeMenu">
-                                <li> <a class="dropdown-item {{ if eq $url $menuUrl }}active{{end}}" href="{{ .URL }}"><span style="font-size: small;">{{ .Name }}</span></a></li>
-                                <li> <a class="dropdown-item {{ if in $menuUrl "nomal" }}active{{end}}" href="{{ .URL }}#nomal"><span style="font-size: small;">大人教室</span></a></li>
-                                <li> <a class="dropdown-item {{ if in $menuUrl "junior" }}active{{end}}" href="{{ .URL }}#junior"><span style="font-size: small;">ジュニア教室</span></a></li>
-                                <li> <a class="dropdown-item {{ if in $menuUrl "personal" }}active{{end}}" href="{{ .URL }}#personal"><span style="font-size: small;">個人レッスン</span></a></li>
-                                <li> <a class="dropdown-item {{ if in $menuUrl "daigashi" }}active{{end}}" href="{{ .URL }}#daigashi"><span style="font-size: small;">台貸し</span></a></li>
+                                <li> <a class="dropdown-item {{ if eq $url $menuUrl }}active{{end}}" href="{{ .URL }}"><span style="font-size: small; color: #FFAB91;">{{ .Name }}</span></a></li>
+                                <li> <a class="dropdown-item {{ if in $menuUrl "junior" }}active{{end}}" href="{{ .URL }}#junior"><span style="font-size: small;color: #FFAB91;">ジュニア教室</span></a></li>
+                                <li> <a class="dropdown-item {{ if in $menuUrl "adult" }}active{{end}}" href="{{ .URL }}#adult"><span style="font-size: small;color: #FFAB91;">大人教室</span></a></li>
+                                <li> <a class="dropdown-item {{ if in $menuUrl "personal" }}active{{end}}" href="{{ .URL }}#personal"><span style="font-size: small;color: #FFAB91;">個人レッスン</span></a></li>
+                                <li> <a class="dropdown-item {{ if in $menuUrl "facility" }}active{{end}}" href="{{ .URL }}#facility"><span style="font-size: small;color: #FFAB91;">施設案内</span></a></li>
                             </ul>
                         {{ else if in .URL "schedule" }}
                         {{ $menuUrl := .URL | relLangURL }}
                         <!-- a class="nav-link" href="{{ .URL }}">{{ .Name }}</a -->
-                            <a class="nav-link dropdown-toggle {{ if eq $url $menuUrl }}active{{end}}" href="#" id="homeMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span style="font-size: small;">{{ .Name }}</span></a>
+                            <a class="nav-link dropdown-toggle {{ if eq $url $menuUrl }}active{{end}}" href="#" id="homeMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span style="font-size: small; color: #FF5722;">{{ .Name }}</span></a>
                             <ul class="dropdown-menu" aria-labelledby="homeMenu">
-                                <li> <a class="dropdown-item {{ if eq $url $menuUrl }}active{{end}}" href="{{ .URL }}"><span style="font-size: small;">{{ .Name }}</span></a></li>
-                                <li> <a class="dropdown-item {{ if in $menuUrl "#junior" }}active{{end}}" href="{{ .URL }}#junior"><span style="font-size: small;">ジュニア教室</span></a></li>
-                                <li> <a class="dropdown-item {{ if in $menuUrl "#adult" }}active{{end}}" href="{{ .URL }}#adult"><span style="font-size: small;">大人教室</span></a></li>
-                                <li> <a class="dropdown-item {{ if in $menuUrl "#facility" }}active{{end}}" href="{{ .URL }}#facility"><span style="font-size: small;">施設案内</span></a></li>
+                                <li> <a class="dropdown-item {{ if eq $url $menuUrl }}active{{end}}" href="{{ .URL }}"><span style="font-size: small; color: #FFAB91;">{{ .Name }}</span></a></li>
+                                <li> <a class="dropdown-item {{ if in $menuUrl "#junior" }}active{{end}}" href="{{ .URL }}#junior"><span style="font-size: small;color: #FFAB91;">ジュニア教室</span></a></li>
+                                <li> <a class="dropdown-item {{ if in $menuUrl "#adult" }}active{{end}}" href="{{ .URL }}#adult"><span style="font-size: small;color: #FFAB91;">大人教室</span></a></li>
+                                <li> <a class="dropdown-item {{ if in $menuUrl "#facility" }}active{{end}}" href="{{ .URL }}#facility"><span style="font-size: small;color: #FFAB91;">施設案内</span></a></li>
                             </ul>
                         {{ else if eq (hasPrefix .URL "mailto:") true }}
                             <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
                         {{ else }}
                             {{ $menuUrl := .URL | relLangURL }}
-                            <span style="display: inline-block;white-space: nowrap;"><a class="nav-link {{ if eq $url $menuUrl }}active{{end}}" href="{{ $menuUrl }}"><span style="font-size: small;">{{ .Pre }} {{ .Name }}</span></a></span>
+                            <span style="display: inline-block;white-space: nowrap;"><a class="nav-link {{ if eq $url $menuUrl }}active{{end}}" href="{{ $menuUrl }}"><span style="font-size: small; color: #FF5722;">{{ .Pre }} {{ .Name }}</span></a></span>
                         {{ end }}
                     </li>
                     {{ end }}

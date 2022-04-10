@@ -110,6 +110,24 @@ Price-1 START -->
 <!-- =======================
 Price-1 END -->
 
+<div id="junior" class="pt-4"></div>
+<hr />
+
+### ジュニア教室
+
+<div id="adult" class="pt-4"></div>
+<hr />
+
+### 大人教室
+
+<div id="personal" class="pt-4"></div>
+<hr />
+
+### 個人レッスン
+
+<div id="facility" class="pt-4"></div>
+<hr />
+
 ### 施設案内
 
 <div class="card bg-transparent mb-4">
@@ -133,7 +151,3 @@ Price-1 END -->
 		</div>
 	</div>
 </div>
-
-
-
-<a rel="noopener noreferrer" href="https://www.butterfly.co.jp/takurepo/tech/detail/020713.html" style="display: block; color: inherit; text-decoration: none; flex-grow: 1; min-width: 0px;"><div class="notion-focusable" role="button" tabindex="0" style="user-select: none; transition: background 20ms ease-in 0s; cursor: pointer; width: 100%; display: flex; flex-wrap: wrap-reverse; align-items: stretch; text-align: left; overflow: hidden; border: 1px solid rgba(55, 53, 47, 0.16); border-radius: 3px; position: relative; color: inherit; fill: inherit;"><div style="flex: 4 1 180px; padding: 12px 14px 14px; overflow: hidden; text-align: left;"><div style="font-size: 14px; line-height: 20px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-height: 24px; margin-bottom: 2px;">「バックハンドドライブの連係」にちょい足し！姿勢と打球点に注目｜卓球レポート</div><div style="font-size: 12px; line-height: 16px; color: rgba(55, 53, 47, 0.65); height: 32px; overflow: hidden;">「ちょい足し！」は、誰もが気軽に実践できる技術向上のためのちょっとしたコツを、トップ選手たちが先生になってピンポイントで教えてくれる企画です。　定番料理がどこにでもある食材や調味料をほんの少し足すことでぐんとおいしくなるように、卓球もちょい足しポイントを実践すればレベルアップ間違いなし！？　今回は、ラリー戦に抜群の強さを誇る ...</div><div style="display: flex; margin-top: 6px;"><img src="/images/blog/107.jpg" style="width: 16px; height: 16px; min-width: 16px; margin-right: 6px;"><div style="font-size: 12px; line-height: 16px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">https://www.butterfly.co.jp/takurepo/tech/detail/020713.html</div></div></div><div style="flex: 1 1 180px; display: block; position: relative;"><div style="position: absolute; inset: 0px;"><div style="width: 100%; height: 100%;"><img src="/images/blog/107.jpg" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; height: 100%;"></div></div></div></div></a>

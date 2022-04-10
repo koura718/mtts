@@ -77,7 +77,7 @@ theme = "hugo-bootstrap-5"
     identifier = 'post'
     url = "/post/"
     pre = '<i class="fa-solid fa-person-running"></i>'
-    name = "活動報告"
+    name = "ニュース"
     weight = 5
   [[menu.main]]
     identifier = 'access'
