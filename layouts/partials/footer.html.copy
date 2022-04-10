@@ -30,33 +30,41 @@
 			<div class="col-md-6 col-lg-3 mb-4">
 				<h5 class="mb-4">ページリンク</h5>
 				<div class="row">
-					<div class="col-12">
+					<div class="col-6">
 						<ul class="nav flex-column">
-							<li class="nav-item"><a class="nav-link pt-0" href="/"><span style="color: #FF5722;">ホーム</span></a></li>
-							<li class="nav-item"><a class="nav-link" href="/school/"><span style="color: #FF5722;">教室紹介</span></a></li>
-							<li class="nav-item"><a class="nav-link" href="/stuff/"><span style="color: #FF5722;">スタッフ</span></a></li>
-							<li class="nav-item"><a class="nav-link" href="/schedule/"><span style="color: #FF5722;">スケジュール</span></a></li>
-							<li class="nav-item"><a class="nav-link" href="/post/"><span style="color: #FF5722;">ニュース</span></a></li>
-							<li class="nav-item"><a class="nav-link" href="/access/"><span style="color: #FF5722;">アクセス</span></a></li>
-							<li class="nav-item"><a class="nav-link" href="/access/"><span style="color: #FF5722;">お問合せ</span></a></li>
+							<li class="nav-item"><a class="nav-link pt-0" href="#">Features</a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Style Guide</a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Contact us</a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Get Theme</a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Support</a></li>
+						</ul>
+					</div>
+ 					<div class="col-6">
+						<ul class="nav flex-column">
+							<li class="nav-item"><a class="nav-link pt-0" href="#">News</a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Career <span class="badge bg-danger ms-2">2 Job</span></a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Technology</a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Startups</a></li>
+							<li class="nav-item"><a class="nav-link" href="#">Gadgets</a></li>
 						</ul>
 					</div>
 				</div>
 			</div>
+
 			<!-- Footer Widget -->
 			<div class="col-sm-6 col-lg-3 mb-4">
-				<h5 class="mb-4">タグ</h5>
+				<h5 class="mb-4">タグリンク</h5>
 				<ul class="list-inline">
-					<li class="list-inline-item"><a href="/tags/new/" class="btn btn-sm btn-primary-soft"><span style="font-size: small;color: #FF5722;">最新情報</span></a></li>
-					<li class="list-inline-item"><a href="/tags/ニュース/" class="btn btn-sm btn-warning-soft"><span style="font-size: small;color: #FF5722;">ニュース</span></a></li>
-					<li class="list-inline-item"><a href="/tags/卓球の技/" class="btn btn-sm btn-success-soft"><span style="font-size: small;color: #FF5722;">卓球の技</span></a></li>
-					<li class="list-inline-item"><a href="/tags/卓球試合/" class="btn btn-sm btn-danger-soft"><span style="font-size: small;color: #FF5722;">卓球試合</span></a></li>
-					<!-- li class="list-inline-item"><a href="#" class="btn btn-sm btn-info-soft">Lifestyle</a></li>
+					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-primary-soft">Travel</a></li>
+					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-warning-soft">Business</a></li>
+					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-success-soft">Tech</a></li>
+					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-danger-soft">Gadgets</a></li>
+					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-info-soft">Lifestyle</a></li>
 					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-primary-soft">Vaccine</a></li>
 					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-warning-soft">Marketing</a></li>
 					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-success-soft">Sports</a></li>
 					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-danger-soft">Covid-19</a></li>
-					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-info-soft">Politics</a></li -->
+					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-info-soft">Politics</a></li>
 				</ul>
 			</div>
 
@@ -64,8 +72,7 @@
 			<div class="col-sm-6 col-lg-2 mb-4">
 				<h5 class="mb-4">SNS</h5>
 				<ul class="nav flex-column">
-					<li class="nav-item"><a class="nav-link pt-0" href="#"><i class="fab fa-brands fa-instagram-square fa-fw me-2 text-instagram"></i>Instagram</a></li>
-					<li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-facebook-square fa-fw me-2 text-facebook"></i>Facebook</a></li>
+					<li class="nav-item"><a class="nav-link pt-0" href="#"><i class="fab fa-facebook-square fa-fw me-2 text-facebook"></i>Facebook</a></li>
 					<li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-twitter-square fa-fw me-2 text-twitter"></i>Twitter</a></li>
 					<li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-youtube-square fa-fw me-2 text-youtube"></i>YouTube</a></li>
 				</ul>

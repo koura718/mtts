@@ -6,7 +6,7 @@
     <ol class="list-unstyled">
         {{ range $posts }}
         <li>
-            <a href="{{.RelPermalink}}">{{.Title | markdownify }}</a>
+            <a href="{{.RelPermalink}}"><i class="fa-solid fa-face-grin-wide"></i> {{.Title | markdownify }}</a>
         </li>
         {{ end }}
     </ol>

@@ -7,6 +7,9 @@ description: ""
 image: ""
 tags: ["", ""]
 author: "水城卓球スクール"
+sitemap:
+    changefreq: weekly
+    priority: 0.8
 ---
 
 ## お問合せ

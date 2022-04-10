@@ -20,9 +20,6 @@ theme = "hugo-bootstrap-5"
   tag = "tags"
   category = "categories"
 
-[params]
-  mainSections = ['post']
-
 # Google analytics
 # googleAnalytics = ""
 
@@ -91,5 +88,11 @@ theme = "hugo-bootstrap-5"
     identifier = 'access'
     url = "/access/"
     pre = '<i class="fa-solid fa-location-dot"></i>'
-    name = "アクセス・お問合せ"
+    name = "アクセス"
     weight = 6
+  [[menu.main]]
+    identifier = 'contact'
+    url = "/contact/"
+    pre = '<i class="fa-solid fa-square-phone-flip"></i>'
+    name = "お問合せ"
+    weight = 7

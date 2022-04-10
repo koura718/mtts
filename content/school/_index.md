@@ -5,8 +5,11 @@ draft: false
 categories: ["", ""]
 description: ""
 image: ""
-tags: ["", ""]
+tags: ["教室紹介", ""]
 author: "水城卓球スクール"
+sitemap:
+    changefreq: weekly
+    priority: 0.8
 ---
 
 ## 教室紹介
