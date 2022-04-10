@@ -10,15 +10,15 @@ IMP NOTES (Where to replace your color codes):
 */
 
 :root {
-  --primary-100: #FFECB3;
-  --primary-200: #FFE082;
-  --primary-300: #FFD54F;
-  --primary-400: #FFCA28;
-  --primary: #FFC107;
-  --primary-600: #FFB300;
-  --primary-700: #FFA000;
-  --primary-800: #FF8F00;
-  --primary-900: #FF6F00;
+  --primary-100: #FFCCBC;
+  --primary-200: #FFAB91;
+  --primary-300: #FF8A65;
+  --primary-400: #FF7043;
+  --primary: #FF5722;
+  --primary-600: #F4511E;
+  --primary-700: #E64A19;
+  --primary-800: #D84315;
+  --primary-900: #BF360C;
   --primary_rgb: 139, 195, 74;
 }
 

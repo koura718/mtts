@@ -87,7 +87,7 @@ body {
 
 hr {
   margin: 1rem 0;
-  color: #a1a1a8;
+  color: #FFAB91;
   background-color: currentColor;
   border: 0;
   opacity: 0.25;
@@ -103,7 +103,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
   line-height: 1.25;
-  color: #191a1f;
+  color: #FF7043;
 }
 
 h1, .h1 {
@@ -15951,7 +15951,7 @@ html.font-sm {
 }
 
 /* rtl:raw:
-  .rotating-text-badge { 
+  .rotating-text-badge {
     direction: ltr !important;
   }
 */

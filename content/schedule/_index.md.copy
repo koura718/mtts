@@ -1,0 +1,127 @@
+---
+title: "スケジュール"
+date: 2022-03-28T12:15:51+09:00
+draft: false
+categories: ["", ""]
+description: ""
+image: ""
+tags: ["", ""]
+author: "水城卓球スクール"
+---
+
+## スケジュール
+
+<div>
+    <div class="col-lg-10 mt-4 position-relative">
+        <table class="table caption-top">
+        <caption>スケジュール（週間）</caption>
+        <thead>
+            <tr>
+            <th scope="col" width="6%">時間</th>
+            <th scope="col" width="9%">月</th>
+            <th scope="col" width="9%">火</th>
+            <th scope="col" width="9%">水</th>
+            <th scope="col" width="9%">木</th>
+            <th scope="col" width="9%">金</th>
+            <th scope="col" width="7%">土</th>
+            <th scope="col" width="7%">日</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>10:00-12:00</td>
+            <td colspan="5">大人教室</td>
+            <td colspan="1" rowspan="3"><span style="font-size: small;">ジュニア教室<br />(15:00迄)</span></td>
+            <td colspan="1" rowspan="3">定休日</td>
+            </tr>
+            <tr>
+            <td>13:30-16:30</td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人ﾚｯｽﾝ</span><br />or<br />貸出</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">大人教室</span><br />(15:30迄)</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人ﾚｯｽﾝ</span><br />or<br />貸出</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">大人教室</span><br />(15:30迄)</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人ﾚｯｽﾝ</span><br />or<br />貸出</span></td>
+            </tr>
+            <tr>
+            <td>17:45-20:45</td>
+            <td colspan="5">ジュニア教室</td>
+            </tr>
+        </tbody>
+        </table>
+    </div>
+</div>
+
+<div>
+    <div class="col-lg-10 mt-4 position-relative">
+        <table class="table caption-top">
+        <caption>スケジュール（週間）</caption>
+        <thead>
+            <tr>
+            <th scope="col" width="6%">時間</th>
+            <th scope="col" width="9%">10:00-12:00</th>
+            <th scope="col" width="9%">13:30-16:30</th>
+            <th scope="col" width="9%">17:45-20:45</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>月</td>
+            <td><span style="font-size: small;">大人教室</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人ﾚｯｽﾝ</span><br />or<br />貸出</span></td>
+            <td><span style="font-size: small;">ジュニア教室</span></td>
+            </tr>
+            <tr>
+            <td>火</td>
+            <td><span style="font-size: small;">大人教室</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">大人教室</span><br />(15:30迄)</span></td>
+            <td><span style="font-size: small;">ジュニア教室</span></td>
+            </tr>
+            <tr>
+            <td>水</td>
+            <td><span style="font-size: small;">大人教室</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人ﾚｯｽﾝ</span><br />or<br />貸出</span></td>
+            <td><span style="font-size: small;">ジュニア教室</span></td>
+            </tr>
+            <tr>
+            <td>木</td>
+            <td><span style="font-size: small;">大人教室</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">大人教室</span><br />(15:30迄)</span></td>
+            <td><span style="font-size: small;">ジュニア教室</span></td>
+            </tr>
+            <td>金</td>
+            <td><span style="font-size: small;">大人教室</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人ﾚｯｽﾝ</span><br />or<br />貸出</span></td>
+            <td><span style="font-size: small;">ジュニア教室</span></td>
+            </tr>
+            <td>土</td>
+            <td><span style="font-size: small;">大人教室</span></td>
+            <td><span style="font-size: small;">ジュニア教室<br />(15:00迄)</span></td>
+            <td><span style="font-size: small;"> </span></td>
+            </tr>
+            <td>日</td>
+            <td colspan="3"><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">フリー開放</span><br />or<br />定休日</span></td>
+            </tr>
+        </tbody>
+        </table>
+    </div>
+</div>
+
+
+<div class="card bg-transparent mb-4">
+	<div class="row">
+		<div class="col-md-12 mt-0 mt-md-0">
+        <div class="card-body">
+            <h5 class="card-title">設備案内</h5>
+            <p class="card-text"></p>
+            <ul class="list-group list-group-flush">
+            <li class="list-group-item">卓球台  4台</li>
+            <li class="list-group-item">冷暖房完備</li>
+            <li class="list-group-item">足腰に優しい床素材使用</li>
+            </ul>
+        </div>
+        <div class="card-footer">
+            <small class="text-muted"></small>
+        </div>
+		</div>
+	</div>
+</div>

@@ -8,7 +8,7 @@ image: ""
 tags: ["", ""]
 author: "水城卓球スクール"
 ---
-[]()
+
 <section>
 <div class="container">
     <div class="row g-4 align-items-center justify-content-between pb-lg-5">
