@@ -20,7 +20,7 @@
                         {{ if in .URL "school" }}
                         {{ $menuUrl := .URL | relLangURL }}
                         <!-- a class="nav-link" href="{{ .URL }}">{{ .Name }}</a -->
-                            <a class="nav-link dropdown-toggle {{ if eq $url $menuUrl }}active{{end}}" href="#" id="homeMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span style="font-size: small; color: #FF5722;">{{ .Name }}</span></a>
+                            <a style="color: #FFAB91;" class="nav-link dropdown-toggle {{ if eq $url $menuUrl }}active{{end}}" href="#" id="homeMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span style="font-size: small; color: #FF5722;">{{ .Name }}</span></a>
                             <ul class="dropdown-menu" aria-labelledby="homeMenu">
                                 <li> <a class="dropdown-item {{ if eq $url $menuUrl }}active{{end}}" href="{{ .URL }}"><span style="font-size: small; color: #FFAB91;">{{ .Name }}</span></a></li>
                                 <li> <a class="dropdown-item {{ if in $menuUrl "junior" }}active{{end}}" href="{{ .URL }}#junior"><span style="font-size: small;color: #FFAB91;">ジュニア教室</span></a></li>
@@ -31,7 +31,7 @@
                         {{ else if in .URL "schedule" }}
                         {{ $menuUrl := .URL | relLangURL }}
                         <!-- a class="nav-link" href="{{ .URL }}">{{ .Name }}</a -->
-                            <a class="nav-link dropdown-toggle {{ if eq $url $menuUrl }}active{{end}}" href="#" id="homeMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span style="font-size: small; color: #FF5722;">{{ .Name }}</span></a>
+                            <a style="color: #FFAB91;" class="nav-link dropdown-toggle {{ if eq $url $menuUrl }}active{{end}}" href="#" id="homeMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span style="font-size: small; color: #FF5722;">{{ .Name }}</span></a>
                             <ul class="dropdown-menu" aria-labelledby="homeMenu">
                                 <li> <a class="dropdown-item {{ if eq $url $menuUrl }}active{{end}}" href="{{ .URL }}"><span style="font-size: small; color: #FFAB91;">{{ .Name }}</span></a></li>
                                 <li> <a class="dropdown-item {{ if in $menuUrl "#junior" }}active{{end}}" href="{{ .URL }}#junior"><span style="font-size: small;color: #FFAB91;">ジュニア教室</span></a></li>

@@ -20,8 +20,8 @@ Price-1 START -->
     <div class="card">
         <img src="/images/blog/107.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">ジュニア教室</h5>
-            <p class="card-text">小学生</p>
+            <h5 class="card-title">ジュニア教室 小学生</h5>
+            <p class="card-text"></p>
             <ul class="list-group list-group-flush">
             <li class="list-group-item">会員 1,100円</li>
             <li class="list-group-item">非会員 1,500円</li>
@@ -35,8 +35,8 @@ Price-1 START -->
     <div class="card">
         <img src="/images/blog/107.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">ジュニア教室</h5>
-            <p class="card-text">中高生</p>
+            <h5 class="card-title">ジュニア教室 中・高校生</h5>
+            <p class="card-text"></p>
             <ul class="list-group list-group-flush">
             <li class="list-group-item">会員 1,100円</li>
             <li class="list-group-item">非会員 1,500円</li>

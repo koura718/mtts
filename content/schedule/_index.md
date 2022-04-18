@@ -91,7 +91,7 @@ sitemap:
 	<div class="row">
 		<div class="col-md-12 mt-0 mt-md-0">
             <div class="card-body">
-            <h5 class="card-title">ジュニア教室 中学生・高校生</h5>
+            <h5 class="card-title">ジュニア教室 中・高校生</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
             <li class="list-group-item">平日（週1～3 コース　）午後 18:45-20:45</li>
