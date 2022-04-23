@@ -118,7 +118,7 @@ sitemap:
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
             <li class="list-group-item text-primary border-primary">平日（月～金）10:00-12:00</li>
-            <li class="list-group-item text-primary border-primary">平日（火・木）13:30-16:30</li>
+            <li class="list-group-item text-primary border-primary">平日（火・木）13:30-15:30</li>
             </ul>
             </div>
         </div>
