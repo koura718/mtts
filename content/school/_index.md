@@ -17,116 +17,111 @@ sitemap:
 <!-- =======================
 Price-1 START -->
 <div class="card-group">
-    <div class="card">
+    <div id="junior" class="card">
         <img src="/images/blog/107.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">ジュニア教室 小学生</h5>
-            <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item">会員 1,100円</li>
-            <li class="list-group-item">非会員 1,500円</li>
-            <li class="list-group-item">入会金 5,000円</li>
+            <li class="list-group-item text-primary border-primary">週１  5,000円</li>
+            <li class="list-group-item text-primary border-primary">週２  9,000円</li>
+            <li class="list-group-item text-primary border-primary">週３ 12,000円</li>
+            <li class="list-group-item text-primary border-primary">週４ 15,000円</li>
+            <li class="list-group-item text-primary border-primary">週５ 18,000円</li>
+            <li class="list-group-item text-primary border-primary">特別 20,000円</li>
             </ul>
+            <p class="card-text small">※入会金 5,000円・ボール代 600円・エアコン代(6-9月/12-2月) 300円</p>
         </div>
         <div class="card-footer">
-            <small class="text-muted">2022年5月時点</small>
+            <small class="text-muted"></small>
         </div>
     </div>
     <div class="card">
         <img src="/images/blog/107.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">ジュニア教室 中・高校生</h5>
-            <p class="card-text"></p>
+            <h5 class="card-title">ジュニア教室 中高生</h5>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item">会員 1,100円</li>
-            <li class="list-group-item">非会員 1,500円</li>
-            <li class="list-group-item">入会金 5,000円</li>
+            <li class="list-group-item text-primary border-primary">週１  6,000円</li>
+            <li class="list-group-item text-primary border-primary">週２ 10,000円</li>
+            <li class="list-group-item text-primary border-primary">週３ 12,000円</li>
+            <li class="list-group-item text-primary border-primary">週４ 15,000円</li>
+            <li class="list-group-item text-primary border-primary">週５ 18,000円</li>
+            <li class="list-group-item text-primary border-primary">特別 20,000円</li>
             </ul>
+            <p class="card-text small">※入会金 5,000円・ボール代 600円・エアコン代(6-9月/12-2月) 300円</p>
         </div>
         <div class="card-footer">
-            <small class="text-muted">2022年5月時点</small>
+            <small class="text-muted"></small>
         </div>
     </div>
-    <div class="card">
+    <div id="adult" class="card">
         <img src="/images/blog/106.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">大人教室</h5>
-            <p class="card-text">18歳以上</p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item">会員 1,100円</li>
-            <li class="list-group-item">非会員 1,500円</li>
-            <li class="list-group-item">年会費 10,000円</li>
+            <li class="list-group-item text-primary border-primary"> 会員  1,100円</li>
+            <li class="list-group-item text-primary border-primary">非会員 1,500円</li>
             </ul>
+            <p class="card-text small">※会員は年会費 10,000円</p>
         </div>
         <div class="card-footer">
-            <small class="text-muted">2022年5月時点</small>
+            <small class="text-muted"></small>
         </div>
     </div>
 </div>
 <div class="card-group">
-    <div class="card">
+    <div id="personal" class="card">
         <img src="/images/blog/109.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">個人レッスン</h5>
-            <p class="card-text">個別指導</p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item">会員 4,000円</li>
-            <li class="list-group-item">非会員 4,500円</li>
-            <li class="list-group-item">入会金 5,000円</li>
+            <li class="list-group-item text-primary border-primary"> 会員 30分 2,500円</li>
+            <li class="list-group-item text-primary border-primary"> 会員 60分 4,000円</li>
+            <li class="list-group-item text-primary border-primary">非会員 30分 3,000円</li>
+            <li class="list-group-item text-primary border-primary">非会員 60分 4,500円</li>
             </ul>
+            <p class="card-text small">※会員は年会費 10,000円</p>
         </div>
         <div class="card-footer">
-            <small class="text-muted">2022年5月時点</small>
+            <small class="text-muted"></small>
         </div>
     </div>
     <div class="card">
         <img src="/images/blog/108.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">台貸し</h5>
-            <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item">会員 4,000円</li>
-            <li class="list-group-item">非会員 4,500円</li>
-            <li class="list-group-item">入会金 5,000円</li>
+            <li class="list-group-item text-primary border-primary"> 会員 1時間 300円</li>
+            <li class="list-group-item text-primary border-primary"> 会員 2時間 500円</li>
+            <li class="list-group-item text-primary border-primary small"> 会員 2時間以上 1,000円</li>
+            <li class="list-group-item text-primary border-primary">非会員 1時間 500円</li>
+            <li class="list-group-item text-primary border-primary">非会員 2時間 700円</li>
+            <li class="list-group-item text-primary border-primary small">非会員 2H以上 1,200円</li>
             </ul>
+            <p class="card-text small">※会員は年会費 10,000円</p>
         </div>
         <div class="card-footer">
-            <small class="text-muted">2022年5月時点</small>
+            <small class="text-muted"></small>
         </div>
     </div>
     <div class="card">
-        <img src="/images/blog/111.jpg" class="card-img-top" alt="...">
+        <img src="/images/blog/109.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">コーチ</h5>
-            <p class="card-text"></p>
+            <h5 class="card-title">コーチ料金</h5>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item">会員 4,000円</li>
-            <li class="list-group-item">非会員 4,500円</li>
-            <li class="list-group-item">入会金 5,000円</li>
+            <li class="list-group-item text-primary border-primary">ローカル 1,500円</li>
+            <li class="list-group-item text-primary border-primary">登録試合 2,000円</li>
+            <li class="list-group-item text-primary border-primary">九州大会 5,000円</li>
+            <li class="list-group-item text-primary border-primary">全国大会 10,000円</li>
             </ul>
+            <p class="card-text small">※交通費・ガソリン代など経費は別途</p>
         </div>
         <div class="card-footer">
-            <small class="text-muted">2022年5月時点</small>
+            <small class="text-muted"></small>
         </div>
     </div>
 </div>
 <!-- =======================
 Price-1 END -->
-
-<div id="junior" class="pt-4"></div>
-<hr />
-
-### ジュニア教室
-
-<div id="adult" class="pt-4"></div>
-<hr />
-
-### 大人教室
-
-<div id="personal" class="pt-4"></div>
-<hr />
-
-### 個人レッスン
 
 <div id="facility" class="pt-4"></div>
 <hr />
@@ -143,9 +138,9 @@ Price-1 END -->
             <h5 class="card-title">施設</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item">卓球台  4台</li>
-            <li class="list-group-item">冷暖房完備</li>
-            <li class="list-group-item">足腰に優しい床素材使用</li>
+            <li class="list-group-item text-primary border-primary">卓球台  4台</li>
+            <li class="list-group-item text-primary border-primary">冷暖房完備</li>
+            <li class="list-group-item text-primary border-primary">足腰に優しい床素材使用</li>
             </ul>
         </div>
         <div class="card-footer">
