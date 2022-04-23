@@ -36,6 +36,8 @@
                                 <li> <a class="dropdown-item {{ if eq $url $menuUrl }}active{{end}}" href="{{ .URL }}"><span style="font-size: small; color: #FFAB91;">{{ .Name }}</span></a></li>
                                 <li> <a class="dropdown-item {{ if in $menuUrl "#junior" }}active{{end}}" href="{{ .URL }}#junior"><span style="font-size: small;color: #FFAB91;">ジュニア教室</span></a></li>
                                 <li> <a class="dropdown-item {{ if in $menuUrl "#adult" }}active{{end}}" href="{{ .URL }}#adult"><span style="font-size: small;color: #FFAB91;">大人教室</span></a></li>
+                                <li> <a class="dropdown-item {{ if in $menuUrl "#personal" }}active{{end}}" href="{{ .URL }}#personal"><span style="font-size: small;color: #FFAB91;">個人レッスン</span></a></li>
+                                <li> <a class="dropdown-item {{ if in $menuUrl "#rent" }}active{{end}}" href="{{ .URL }}#rent"><span style="font-size: small;color: #FFAB91;">卓球台貸出</span></a></li>
                                 <li> <a class="dropdown-item {{ if in $menuUrl "#facility" }}active{{end}}" href="{{ .URL }}#facility"><span style="font-size: small;color: #FFAB91;">施設案内</span></a></li>
                             </ul>
                         {{ else if eq (hasPrefix .URL "mailto:") true }}

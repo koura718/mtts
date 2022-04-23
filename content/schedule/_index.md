@@ -62,7 +62,7 @@ sitemap:
             <br />　中高生 週1～5:14:30-16:30 特別:12:30-16:30</span></td>
             </tr>
             <td>日</td>
-            <td colspan="3"><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">フリー開放 or 定休日<br>※フリー開放日はSNSでお知らせ致します</span></td>
+            <td colspan="3"><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">定休日<br> or フリー開放 ※フリー開放日はSNSでお知らせ致します</span></td>
             </tr>
         </tbody>
         </table>
@@ -83,8 +83,8 @@ sitemap:
             <ul class="list-group list-group-flush">
             <li class="list-group-item text-primary border-primary">平日（週1～5 コース） 18:00-20:00</li>
             <li class="list-group-item text-primary border-primary">平日（週6特別コース） 18:00-21:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週1～5 コース） 10:00-12:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週6特別コース） 10:00-15:00</li>
+            <li class="list-group-item text-primary border-primary">土曜（週1～5 コース） 12:30-14:30</li>
+            <li class="list-group-item text-primary border-primary">土曜（週6特別コース） 12:30-16:30</li>
             </ul>
             </div>
         </div>
@@ -97,8 +97,8 @@ sitemap:
             <ul class="list-group list-group-flush">
             <li class="list-group-item text-primary border-primary">平日（週1～5 コース）18:45-21:00</li>
             <li class="list-group-item text-primary border-primary">平日（週6特別コース）18:00-21:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週1～5 コース）13:00-15:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週6特別コース）10:00-15:00</li>
+            <li class="list-group-item text-primary border-primary">土曜（週1～5 コース）14:30-16:30</li>
+            <li class="list-group-item text-primary border-primary">土曜（週6特別コース）12:30-16:30</li>
             </ul>
             </div>
         </div>
@@ -123,25 +123,41 @@ sitemap:
             </div>
         </div>
     </div>
+</div>
+
+<div id="personal" class="pt-4"></div>
+<hr />
+
+### 個人レッスン スケジュール
+
+<div class="card bg-transparent mb-4">
 	<div class="row">
 		<div class="col-md-12 mt-0 mt-md-0">
             <div class="card-body">
-            <h5 class="card-title">個人レッスン・貸出</h5>
+            <h5 class="card-title">個人レッスン</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
             <li class="list-group-item text-primary border-primary">平日（月・水・金）13:30-16:30</li>
-            <li class="list-group-item text-primary border-primary">土曜 10:00-12:00 <small>※個人レッスンのみ</small></li>
+            <li class="list-group-item text-primary border-primary">土曜 10:00-12:00</li>
             </ul>
             </div>
         </div>
 	</div>
+</div>
+
+<div id="rent" class="pt-4"></div>
+<hr />
+
+### 卓球台貸出 スケジュール
+
+<div class="card bg-transparent mb-4">
 	<div class="row">
 		<div class="col-md-12 mt-0 mt-md-0">
             <div class="card-body">
-            <h5 class="card-title">フリー開放</h5>
+            <h5 class="card-title">卓球台貸出</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary">日祝日 10:00-16:30<br><small>※フリー開放日はSNSでお知らせします</small></li>
+            <li class="list-group-item text-primary border-primary">平日（月・水・金）13:30-16:30</li>
             </ul>
             </div>
         </div>
@@ -150,7 +166,6 @@ sitemap:
 
 <div id="facility" class="pt-4"></div>
 <hr />
-
 
 ### 施設案内
 

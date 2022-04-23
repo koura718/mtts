@@ -36,11 +36,11 @@ sitemap:
   </div>
 
   <div class="w-100 my-auto text-center">
-    <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> 電話で問い合わせる</h5><a href="tel:00012345678" class="stretched-link text-reset btn-link">０８０-８５６７-１７０４ (担当：小早川)</a>
+    <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> 電話で問い合わせる</h5>
+    <a href="tel:08085671704" class="stretched-link text-reset btn-link">０８０-８５６７-１７０４（小早川）</a>
     <div id="contact" class="p-2"></div>
-    <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> SMSで問い合わせる</h5><a href="sms:000-------8" class="stretched-link text-reset btn-link">ＳＭＳで送信する</a>
-    <div id="contact" class="p-2"></div>
-    <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> LINEで問い合わせる</h5><a href="https://" class="stretched-link text-reset btn-link" target="_blank" rel="null noopener"> LINEで問い合わせる [ID: kouta810tt]</a>
+    <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> LINEで問い合わせる</h5>
+    <a href="https://line.me/R/oaMessage/@kouta810tt/?%E6%B0%B4%E5%9F%8E%EF%BC%B4%EF%BC%B4%EF%BC%B3%E3%81%B8%E3%81%AE%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B" class="stretched-link text-reset btn-link" target="_blank"> LINEで問い合わせる（ID: kouta810tt）</a>
   </div>
 
 </div>
