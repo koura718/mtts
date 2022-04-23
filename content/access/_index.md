@@ -15,7 +15,7 @@ sitemap:
 ## アクセス
 
 <p class="w-100 text-left" style="color: #EC6D4E">
-<i class="fa-solid fa-table-tennis-paddle-ball"></i> 水城卓球スクール</br><span style="font-size: small">818-0131 太宰府市水城3-7-20</span>
+<img src="/images/mtts_logo_org.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> 水城卓球スクール</br><span style="font-size: small">818-0131 太宰府市水城3-7-20</span>
 </p>
 
 <div style="position:relative; width: 100%; height: 0; padding-top: 75%;">

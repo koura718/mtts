@@ -1,9 +1,11 @@
+<div class="pt-4">
+<div class="card border rounded-3 up-hover p-2 mb-2">
 <article class="blog-post">
     <header style="z-index: 0;">
-        {{ partial "post-title" . }}
-        {{ partial "post-date" . }}
-        {{ partial "post-tags" . }}
-        {{ partial "post-categories" . }}
+        {{ partial "post-title-1" . }}
+        {{ partial "post-date-1" . }}
+        {{ partial "post-tags-1" . }}
+        {{/* partial "post-categories-1" . */}}
     </header>
     {{ .Summary }}
     {{ if .Truncated }}
@@ -11,3 +13,5 @@
     <a href="{{ .RelPermalink }}">{{ i18n "readMore" }}</a>
     {{ end }}
 </article>
+</div>
+</div>

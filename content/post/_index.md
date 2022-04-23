@@ -1,5 +1,5 @@
 ---
-title: "活動報告"
+title: "ニュース"
 sitemap:
     changefreq: weekly
     priority: 0.8

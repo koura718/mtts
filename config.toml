@@ -70,16 +70,16 @@ theme = "hugo-bootstrap-5"
     name = "教室紹介"
     weight = 2
   [[menu.main]]
-    identifier = 'stuff'
-    url = "/stuff/"
-    pre = '<i class="fa-solid fa-user-tie"></i>'
-    name = "スタッフ"
-    weight = 3
-  [[menu.main]]
     identifier = 'schedule'
     url = "/schedule/"
     pre = '<i class="fa-solid fa-calendar-days"></i>'
     name = "スケジュール"
+    weight = 3
+  [[menu.main]]
+    identifier = 'stuff'
+    url = "/stuff/"
+    pre = '<i class="fa-solid fa-user-tie"></i>'
+    name = "スタッフ"
     weight = 4
   [[menu.main]]
     identifier = 'post'
