@@ -81,10 +81,10 @@ sitemap:
             <h5 class="card-title">ジュニア教室 小学生</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary">平日（週1～5 コース）午後 18:00-20:00</li>
-            <li class="list-group-item text-primary border-primary">平日（週6特別コース）午後 18:00-21:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週1～5 コース）午前 10:00-12:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週6特別コース）午前 10:00-午後15:00</li>
+            <li class="list-group-item text-primary border-primary">平日（週1～5 コース） 18:00-20:00</li>
+            <li class="list-group-item text-primary border-primary">平日（週6特別コース） 18:00-21:00</li>
+            <li class="list-group-item text-primary border-primary">土曜（週1～5 コース） 10:00-12:00</li>
+            <li class="list-group-item text-primary border-primary">土曜（週6特別コース） 10:00-15:00</li>
             </ul>
             </div>
         </div>
@@ -98,7 +98,7 @@ sitemap:
             <li class="list-group-item text-primary border-primary">平日（週1～5 コース）18:45-21:00</li>
             <li class="list-group-item text-primary border-primary">平日（週6特別コース）18:00-21:00</li>
             <li class="list-group-item text-primary border-primary">土曜（週1～5 コース）13:00-15:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週6特別コース）10:00-午後15:00</li>
+            <li class="list-group-item text-primary border-primary">土曜（週6特別コース）10:00-15:00</li>
             </ul>
             </div>
         </div>
