@@ -22,7 +22,7 @@ sitemap:
       </div>
       <div class="col-lg-5">
         <!-- Hero title -->
-        <p><span class="badge btn-primary btn-small me-1">Stuff</span> 水城卓球スクール コーチ</p>
+        <p><span class="badge btn-primary btn-small me-1">Stuff</span> 水城卓球TTS コーチ</p>
         <h1 class="display-6">小早川 恒太</h1>
         <p>Kobayakawa Kouta</p>
         <!-- Listen on -->
@@ -38,14 +38,14 @@ sitemap:
     <div class="row g-4 align-items-center justify-content-between pb-lg-5">
       <div class="col-lg-10 mt-4 position-relative">
         <table class="table caption-top">
-        <caption>経歴</caption>
+        <caption class="text-primary border-primary">経歴</caption>
         <!-- <thead>
             <tr>
             <th scope="col" width="30%">出身</th>
             <th colspan="1" scope="col"  width="70%">部活</th>
             </tr>
         </thead> -->
-        <tbody>
+        <tbody class="text-primary border-primary">
             <tr>
             <td>平野中学校</td>
             <td>卓球部</td>
@@ -65,14 +65,14 @@ sitemap:
     <div class="row g-4 align-items-center justify-content-between pb-lg-5">
       <div class="col-lg-10 mt-4 position-relative">
         <table class="table caption-top">
-        <caption>戦績</caption>
+        <caption class="text-primary border-primary">戦績</caption>
         <!-- <thead>
             <tr>
             <th scope="col" width="60%">大会</th>
             <th colspan="1" scope="col"  width="40%">成績</th>
             </tr>
         </thead> -->
-        <tbody>
+        <tbody class="text-primary border-primary">
             <tr>
             <th colspan="2">大学</th>
             </tr>
@@ -96,7 +96,7 @@ sitemap:
             <td>シングルス優勝</td>
             </tr>
             <tr>
-            <td>福岡県全日本社会人卓球選手権大会</td>
+            <td class="small">福岡県全日本社会人卓球選手権大会</td>
             <td>シングルス優勝<br />ダブルス優勝</td>
             </tr>
         </tbody>
