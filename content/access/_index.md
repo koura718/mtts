@@ -21,7 +21,7 @@ sitemap:
 <div id="contact" class="pt-4"></div>
 <hr />
 
-<div class="card border rounded-3 p-4 m-4">
+<div class="card border rounded-3 p-3 m-3">
 
 #### お問合せ
 
@@ -29,13 +29,13 @@ sitemap:
 <img src="/images/mtts_logo_org.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> 水城卓球スクール</br><span style="font-size: small">818-0131 太宰府市水城3-7-20</span>
 </p>
 
-<div>
+  <div>
   <p>お問い合わせいただく際は、<a href="/" class="stretched-link text-reset btn-link">サイトの情報</a>を予めご確認ください。<br>営業時間は平日10:00〜21:00 土曜日10:00～15:00 です。日祝日の定休日及び営業時間外でのご対応はできかねますので予めご了承ください。</p>
   <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> 電話で問い合わせる</h5><a href="tel:00012345678" class="stretched-link text-reset btn-link">０９０-１２３４-４３２１</a>
   <div id="contact" class="p-2"></div>
   <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> SMSで問い合わせる</h5><a href="sms:00012345678" class="stretched-link text-reset btn-link">ＳＭＳで送信する</a>
   <div id="contact" class="p-2"></div>
-  <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> LINEで問い合わせる</h5><a href="https://lin.ee/3800qlB" class="stretched-link text-reset btn-link" target="_blank" rel="null noopener">https://lin.ee/3800qlB</a>
-</div>
+  <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> LINEで問い合わせる</h5><a href="https://" class="stretched-link text-reset btn-link" target="_blank" rel="null noopener"> LINEで問い合わせる</a>
+  </div>
 
 </div>
