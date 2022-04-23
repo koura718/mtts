@@ -16,15 +16,18 @@ paginatePath = "page"
 # Theme to use
 theme = "hugo-bootstrap-5"
 
+# Google analytics
+googleAnalytics = "G-3TWHXLJHKQ"
+
 [taxonomies]
   tag = "tags"
   category = "categories"
 
 [params]
   mainSections = ['post']
-
-# Google analytics
-# googleAnalytics = ""
+  title = "水城卓球TTS : 水城卓球スクール 福岡県太宰府市水城の卓球場・卓球スクール"
+  description = "水城卓球TTS : 水城卓球スクール とは、令和4年5月に福岡県太宰府市水城にオープンした卓球場・卓球スクールです。"
+  images = ["images/mtts_logo_org.jpg"]
 
 [sitemap]
   filename = 'sitemap.xml'
