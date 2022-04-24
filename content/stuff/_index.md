@@ -22,7 +22,7 @@ sitemap:
       </div>
       <div class="col-lg-5">
         <!-- Hero title -->
-        <p><span class="badge btn-primary btn-small me-1">Stuff</span> 水城卓球TTS コーチ</p>
+        <p><span class="badge btn-primary btn-small me-1">Stuff</span> 水城TTS コーチ</p>
         <h1 class="display-6">小早川 恒太</h1>
         <p>Kobayakawa Kouta</p>
         <!-- Listen on -->
