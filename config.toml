@@ -31,6 +31,11 @@ googleAnalytics = "G-3TWHXLJHKQ"
   title = "水城卓球TTS : 水城卓球スクール 福岡県太宰府市水城の卓球場・卓球スクール"
   description = "水城卓球TTS : 水城卓球スクール とは、令和4年5月に福岡県太宰府市水城にオープンした卓球場・卓球スクールです。"
   images = ["images/mtts_logo_org.jpg"]
+  # Instagram
+  url_insta = "https://www.instagram.com/mizuki.tts/"
+  # Twitter
+  url_nitt = "https://nitter.net/MIZUKI_TTS"
+  url_twit = "https://twitter.com/MIZUKI_TTS"
 
 [sitemap]
   filename = 'sitemap.xml'

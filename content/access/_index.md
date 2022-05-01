@@ -39,8 +39,8 @@ sitemap:
     <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> 電話で問い合わせる</h5>
     <a href="tel:08085671704" class="stretched-link text-reset btn-link">０８０-８５６７-１７０４（小早川）</a>
     <div id="contact" class="p-2"></div>
-    <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> LINEで問い合わせる</h5>
-    <a href="https://line.me/R/oaMessage/kouta810tt/?%E6%B0%B4%E5%9F%8E%EF%BC%B4%EF%BC%B4%EF%BC%B3%E3%81%B8%E3%81%AE%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B" class="stretched-link text-reset btn-link" target="_blank"> LINEで問い合わせる（ID: kouta810tt）</a>
+    <h5><i class="fa-solid fa-table-tennis-paddle-ball"></i> Twitter で問い合わせる</h5>
+    <a href="{{< val url_twit >}}" class="stretched-link text-reset btn-link" target="_blank"> Twitter で問い合わせる</a>
   </div>
 
 </div>

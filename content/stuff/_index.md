@@ -28,10 +28,10 @@ sitemap:
         <!-- Listen on -->
         <ul class="list-unstyled d-flex gap-1 gap-sm-2 align-items-center mt-4">
           <li class="h5 mb-0">SNS:</li>
-          <li class="ms-1"><a href="#"> <i class="fa-brands fa-facebook-square"></i> </a></li>
-          <li class="ms-1"><a href="#"> <i class="fa-brands fa-instagram-square"></i> </a></li>
-          <li class="ms-1"><a href="#"> <i class="fa-brands fa-twitter-square"></i> </a></li>
-          <li class="ms-1"><a href="#"> <i class="fa-brands fa-line"></i> </a></li>
+          <li class="ms-1"><a href="{{< val url_insta >}}" target="_blank"> <i class="fa-brands fa-instagram-square"></i> </a></li>
+          <li class="ms-1"><a href="{{< val url_twit >}}" target="_blank"> <i class="fa-brands fa-twitter-square"></i> </a></li>
+          <!-- li class="ms-1"><a href="#"> <i class="fa-brands fa-line"></i> </a></li -->
+          <!-- li class="ms-1"><a href="#"> <i class="fa-brands fa-facebook-square"></i> </a></li -->
         </ul>
       </div>
     </div>

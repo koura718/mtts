@@ -5,6 +5,8 @@
 
 {{ $copyright := default $thanks .Site.Copyright }}
 {{ $colorScheme := default "info" .Site.Params.footer.colorScheme }}
+{{ $url_insta := default "#" .Site.Params.url_insta }}
+{{ $url_twit := default "#" .Site.Params.url_twit }}
 
 <footer class="blog-footer w-100 pb-0">
 	<div class="container">
@@ -49,14 +51,8 @@
 				<ul class="list-inline">
 					<li class="list-inline-item"><a href="/tags/new/" class="btn btn-sm btn-primary-soft"><span style="font-size: small;color: #FF5722;">最新情報</span></a></li>
 					<li class="list-inline-item"><a href="/tags/ニュース/" class="btn btn-sm btn-warning-soft"><span style="font-size: small;color: #FF5722;">ニュース</span></a></li>
-					<li class="list-inline-item"><a href="/tags/卓球の技/" class="btn btn-sm btn-success-soft"><span style="font-size: small;color: #FF5722;">卓球の技</span></a></li>
-					<li class="list-inline-item"><a href="/tags/卓球試合/" class="btn btn-sm btn-danger-soft"><span style="font-size: small;color: #FF5722;">卓球試合</span></a></li>
-					<!-- li class="list-inline-item"><a href="#" class="btn btn-sm btn-info-soft">Lifestyle</a></li>
-					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-primary-soft">Vaccine</a></li>
-					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-warning-soft">Marketing</a></li>
-					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-success-soft">Sports</a></li>
-					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-danger-soft">Covid-19</a></li>
-					<li class="list-inline-item"><a href="#" class="btn btn-sm btn-info-soft">Politics</a></li -->
+					{{/* <li class="list-inline-item"><a href="/tags/卓球の技/" class="btn btn-sm btn-success-soft"><span style="font-size: small;color: #FF5722;">卓球の技</span></a></li> */}}
+					{{/* <li class="list-inline-item"><a href="/tags/卓球試合/" class="btn btn-sm btn-danger-soft"><span style="font-size: small;color: #FF5722;">卓球試合</span></a></li> */}}
 				</ul>
 			</div>
 
@@ -64,10 +60,10 @@
 			<div class="col-sm-6 col-lg-2 mb-4">
 				<h5 class="mb-4">SNS</h5>
 				<ul class="nav flex-column">
-					<li class="nav-item"><a class="nav-link pt-0" href="#"><i class="fab fa-brands fa-instagram-square fa-fw me-2 text-instagram"></i>Instagram</a></li>
-					<li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-facebook-square fa-fw me-2 text-facebook"></i>Facebook</a></li>
-					<li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-twitter-square fa-fw me-2 text-twitter"></i>Twitter</a></li>
-					<li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-youtube-square fa-fw me-2 text-youtube"></i>YouTube</a></li>
+					<li class="nav-item"><a class="nav-link pt-0" href="{{ $url_insta }}" target="_blank"><i class="fab fa-brands fa-instagram-square fa-fw me-2 text-instagram"></i>Instagram</a></li>
+					<li class="nav-item"><a class="nav-link" href="{{ $url_twit }}" target="_blank"><i class="fab fa-twitter-square fa-fw me-2 text-twitter"></i>Twitter</a></li>
+					{{/* <li class="nav-item"><a class="nav-link" href="#" target="_blank"><i class="fab fa-youtube-square fa-fw me-2 text-youtube"></i>YouTube</a></li> */}}
+					{{/* <li class="nav-item"><a class="nav-link" href="#" target="_blank"><i class="fab fa-facebook-square fa-fw me-2 text-facebook"></i>Facebook</a></li> */}}
 				</ul>
 			</div>
 		</div>

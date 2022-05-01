@@ -1,0 +1,3 @@
+{{ if index .Params 0 | eq "url_insta" }}{{ .Site.Params.url_insta }}
+{{ else if index .Params 0 | eq "url_twit" }}{{ .Site.Params.url_twit }}
+{{ end }}
