@@ -71,7 +71,7 @@ googleAnalytics = "G-3TWHXLJHKQ"
   [[menu.main]]
     identifier = 'home'
     url = "/"
-    name = "水城卓球"
+    name = "水城TTS"
     pre = '<i class="fa-solid fa-house"></i>'
     weight = 1
   [[menu.main]]

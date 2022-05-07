@@ -5,7 +5,7 @@ draft: true
 categories: ["卓球ニュース", "イベント"]
 description: ""
 image: ""
-tags: ["ニュース", "new", "卓球情報"]
+tags: ["ニュース", "New", "卓球情報"]
 author: "水城卓球スクール"
 ---
 
