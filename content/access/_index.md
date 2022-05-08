@@ -38,7 +38,7 @@ sitemap:
 </div>
   <div class="w-100 my-auto text-center">
     <p>　お問い合わせいただく際は、<a href="/" class="stretched-link text-reset btn-link">サイトの情報</a>を予めご確認ください。
-    <br>営業時間は平日10:00〜21:00 土曜日10:00～15:00 です。
+    <br>営業時間は平日10:00〜21:00 土曜日10:00～16:30 です。
     <br>日祝日の定休日及び営業時間外でのご対応はできかねますので予めご了承ください。</p>
   </div>
 
