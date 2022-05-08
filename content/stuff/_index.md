@@ -17,7 +17,7 @@ sitemap:
     <div class="row g-4 align-items-center justify-content-between pb-lg-5">
       <div class="col-lg-6 mt-0 position-relative">
         <!-- Hero image -->
-        <img class="rounded" src="/images/mtts_logo2_org.jpg" alt="">
+        <img class="rounded" src="/images/blog/kk-01.jpg" alt="小早川 恒太">
         <!-- Hero info -->
       </div>
       <div class="col-lg-5">

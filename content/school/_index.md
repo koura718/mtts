@@ -18,7 +18,7 @@ sitemap:
 Price-1 START -->
 <div class="card-group">
     <div id="junior" class="card">
-        <img src="/images/blog/107.jpg" class="card-img-top" alt="ジュニア教室 小学生">
+        <img src="/images/blog/115-2.jpg" class="card-img-top" alt="ジュニア教室 小学生">
         <div class="card-body">
             <h5 class="card-title">ジュニア教室 小学生</h5>
             <ul class="list-group list-group-flush">
@@ -37,7 +37,7 @@ Price-1 START -->
         </div>
     </div>
     <div class="card">
-        <img src="/images/blog/106.jpg" class="card-img-top" alt="ジュニア教室 中高生">
+        <img src="/images/blog/115.jpg" class="card-img-top" alt="ジュニア教室 中高生">
         <div class="card-body">
             <h5 class="card-title">ジュニア教室 中高生</h5>
             <ul class="list-group list-group-flush">
@@ -58,7 +58,7 @@ Price-1 START -->
 </div>
 <div class="card-group pt-4">
     <div id="adult" class="card">
-        <img src="/images/blog/106.jpg" class="card-img-top" alt="...">
+        <img src="/images/blog/117.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">大人教室</h5>
             <ul class="list-group list-group-flush">
@@ -73,7 +73,7 @@ Price-1 START -->
         </div>
     </div>
     <div id="personal" class="card">
-        <img src="/images/blog/107.jpg" class="card-img-top" alt="...">
+        <img src="/images/blog/115-5.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">個人レッスン</h5>
             <ul class="list-group list-group-flush">
@@ -92,7 +92,7 @@ Price-1 START -->
 </div>
 <div class="card-group">
     <div class="card">
-        <img src="/images/blog/108.jpg" class="card-img-top" alt="...">
+        <img src="/images/blog/113.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">卓球台貸出</h5>
             <ul class="list-group list-group-flush">
@@ -128,7 +128,7 @@ Price-1 END -->
 <div class="card bg-transparent mb-4">
     <div class="row">
     <div class="col-md-5">
-    <img class="rounded-3" src="/images/blog/100.jpg" alt="">
+    <img class="rounded-3" src="/images/blog/116.jpg" alt="">
     </div>
     <div class="col-md-7 mt-3 mt-md-0">
         <div class="card-body">

@@ -17,6 +17,13 @@ sitemap:
 <div style="position:relative; width: 100%; height: 0; padding-top: 75%;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.0712089556355!2d130.49491881547684!3d33.52553418075253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35419a414c218f2d%3A0x5dc514dc19d68467!2z44CSODE4LTAxMzEg56aP5bKh55yM5aSq5a6w5bqc5biC5rC05Z-O77yT5LiB55uu77yX4oiS77yS77yQ!5e0!3m2!1sja!2sjp!4v1649546369161!5m2!1sja!2sjp" class="w-100 h-100" style="border:0; position:absolute; top: 0; left: 0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+<div class="card bg-dark text-white">
+  <img class="card-img" src="/images/blog/118.jpg" alt="Card image">
+  <div class="card-img-overlay">
+    <h4 class="card-title">水城TTS (水城卓球スクール)</h4>
+    <p class="card-text">818-0131 太宰府市水城3-7-20</p>
+  </div>
+</div>
 
 <div id="contact" class="pt-4"></div>
 <hr />
