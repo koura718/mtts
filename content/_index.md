@@ -1,6 +1,6 @@
 ---
-title: "水城TTS (水城卓球スクール)"
-date: 2022-03-28T12:18:41+09:00
+title: "水城卓球スクール 太宰府市卓球場"
+date: 2022-05-07T12:18:41+09:00
 draft: false
 categories: ["", ""]
 description: ""
