@@ -1,72 +1,68 @@
-{{ $Xzya := "<a href='https://github.com/NotWoods'>Tiger Oakes</a>" }}
-{{ $HugoThemeBootstrap4Blog := "<a href='https://github.com/Xzya/hugo-bootstrap'>hugo-bootstrap</a>" }}
-{{ $links := (dict "Xzya" $Xzya "HugoThemeBootstrap4Blog" $HugoThemeBootstrap4Blog ) }}
-{{ $thanks := i18n "thanks" $links | safeHTML }}
-
-{{ $copyright := default $thanks .Site.Copyright }}
-{{ $colorScheme := default "info" .Site.Params.footer.colorScheme }}
-{{ $url_insta := default "#" .Site.Params.url_insta }}
-{{ $url_twit := default "#" .Site.Params.url_twit }}
+{{ $Xzya := "<a href='https://github.com/NotWoods'>Tiger Oakes</a>" }} {{ $HugoThemeBootstrap4Blog := "<a href='https://github.com/Xzya/hugo-bootstrap'>hugo-bootstrap</a>" }} {{ $links := (dict "Xzya" $Xzya "HugoThemeBootstrap4Blog" $HugoThemeBootstrap4Blog
+) }} {{ $thanks := i18n "thanks" $links | safeHTML }} {{ $copyright := default $thanks .Site.Copyright }} {{ $colorScheme := default "info" .Site.Params.footer.colorScheme }} {{ $url_insta := default "#" .Site.Params.url_insta }} {{ $url_twit := default
+"#" .Site.Params.url_twit }}
 
 <footer class="blog-footer w-100 pb-0">
-	<div class="container">
-		<hr>
-		<!-- Widgets START -->
-		<div class="row pt-5">
-			<!-- Footer Widget -->
-			<div class="col-md-6 col-lg-4 mb-4">
+    <div class="container">
+        <hr>
+        <!-- Widgets START -->
+        <div class="row pt-5">
+            <!-- Footer Widget -->
+            <div class="col-md-6 col-lg-4 mb-4">
                 <h5 class="mb-4">
-					<span style="display: inline-block;white-space: nowrap; color: #FF7043;"><img src="/images/mtts_logo_org.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> {{ .Site.Title }}</span>
+                    <span style="display: inline-block;white-space: nowrap; color: #FF7043;"><img src="/images/mtts_logo_org.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> {{ .Site.Title }}</span>
                 </h5>
-				<!-- img class="light-mode-item" src="assets/images/logo.svg" alt="logo" -->
-				<!-- img class="dark-mode-item" src="assets/images/logo-light.svg" alt="logo" -->
-				<p class="mt-3">令和4年5月に太宰府にオープンした卓球場です！ 卓球を始めてみたい、強くなりたい、運動不足の解消、脳の活性化を図りたい、友達を増やしたい等など！ それぞれの目的にあった指導を心掛けています。</p>
+                <!-- img class="light-mode-item" src="assets/images/logo.svg" alt="logo" -->
+                <!-- img class="dark-mode-item" src="assets/images/logo-light.svg" alt="logo" -->
+                <p class="mt-3">令和4年5月に太宰府にオープンした卓球場です！ 卓球を始めてみたい、強くなりたい、運動不足の解消、脳の活性化を図りたい、友達を増やしたい等など！ それぞれの目的にあった指導を心掛けています。</p>
                 <p class="w-100 text-center"><img src="/images/mtts_logo_org.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> {{ $copyright }}</br>
                     <span style="font-size: small">818-0131 太宰府市水城3-7-20</span></p>
 
                 <div class="mt-4">©2022 <a href="https://my-b5.kora.win/" class="text-reset btn-link" target="_blank">水城卓球スクール</a>. All rights reserved
-				</div>
-			</div>
+                </div>
+            </div>
 
-			<!-- Footer Widget -->
-			<div class="col-md-6 col-lg-3 mb-4">
-				<h5 class="mb-4">ページリンク</h5>
-				<div class="row">
-					<div class="col-12">
-						<ul class="nav flex-column">
-							<li class="nav-item"><a class="btn-link text-reset fw-normal pt-0" href="/"><span style="color: #FF5722;"><i class="fa-solid fa-house"></i> ホーム</span></a></li>
-							<li class="nav-item"><a class="btn-link text-reset fw-normal" href="/school/"><span style="color: #FF5722;"><i class="fa-solid fa-school"></i> 教室紹介</span></a></li>
-							<li class="nav-item"><a class="btn-link text-reset fw-normal" href="/stuff/"><span style="color: #FF5722;"><i class="fa-solid fa-user-tie"></i> スタッフ</span></a></li>
-							<li class="nav-item"><a class="btn-link text-reset fw-normal" href="/schedule/"><span style="color: #FF5722;"><i class="fa-solid fa-calendar-days"></i> スケジュール</span></a></li>
-							<li class="nav-item"><a class="btn-link text-reset fw-normal" href="/post/"><span style="color: #FF5722;"><i class="fa-solid fa-person-running"></i> ニュース</span></a></li>
-							<li class="nav-item"><a class="btn-link text-reset fw-normal" href="/access/"><span style="color: #FF5722;"><i class="fa-solid fa-location-dot"></i> アクセス・お問合せ</span></a></li>
-							<li class="nav-item"><a class="btn-link text-reset fw-normal" href="/sitemap.xml"><span style="color: #FF5722;"><i class="fa-solid fa-sitemap"></i> サイトマップ</span></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<!-- Footer Widget -->
-			<div class="col-sm-6 col-lg-3 mb-4">
-				<h5 class="mb-4">タグ</h5>
-				<ul class="list-inline">
-					<li class="list-inline-item"><a href="/tags/new/" class="btn btn-sm btn-primary-soft"><span style="font-size: small;color: #FF5722;">最新情報</span></a></li>
-					<li class="list-inline-item"><a href="/tags/ニュース/" class="btn btn-sm btn-warning-soft"><span style="font-size: small;color: #FF5722;">ニュース</span></a></li>
-					{{/* <li class="list-inline-item"><a href="/tags/卓球の技/" class="btn btn-sm btn-success-soft"><span style="font-size: small;color: #FF5722;">卓球の技</span></a></li> */}}
-					{{/* <li class="list-inline-item"><a href="/tags/卓球試合/" class="btn btn-sm btn-danger-soft"><span style="font-size: small;color: #FF5722;">卓球試合</span></a></li> */}}
-				</ul>
-			</div>
+            <!-- Footer Widget -->
+            <div class="col-md-6 col-lg-3 mb-4">
+                <h5 class="mb-4">ページリンク</h5>
+                <div class="row">
+                    <div class="col-12">
+                        <ul class="nav flex-column">
+                            <li class="nav-item"><a class="btn-link text-reset fw-normal pt-0" href="/"><span style="color: #FF5722;"><i class="fa-solid fa-house"></i> ホーム</span></a></li>
+                            <li class="nav-item"><a class="btn-link text-reset fw-normal" href="/school/"><span style="color: #FF5722;"><i class="fa-solid fa-school"></i> 教室案内</span></a></li>
+                            <li class="nav-item"><a class="btn-link text-reset fw-normal" href="/stuff/"><span style="color: #FF5722;"><i class="fa-solid fa-user-tie"></i> スタッフ紹介</span></a></li>
+                            <li class="nav-item"><a class="btn-link text-reset fw-normal" href="/schedule/"><span style="color: #FF5722;"><i class="fa-solid fa-calendar-days"></i> スケジュール</span></a></li>
+                            <li class="nav-item"><a class="btn-link text-reset fw-normal" href="/post/"><span style="color: #FF5722;"><i class="fa-solid fa-person-running"></i> ニュース</span></a></li>
+                            <li class="nav-item"><a class="btn-link text-reset fw-normal" href="/access/"><span style="color: #FF5722;"><i class="fa-solid fa-location-dot"></i> アクセス・お問合せ</span></a></li>
+                            <li class="nav-item"><a class="btn-link text-reset fw-normal" href="/sitemap.xml"><span style="color: #FF5722;"><i class="fa-solid fa-sitemap"></i> サイトマップ</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Footer Widget -->
+            <div class="col-sm-6 col-lg-3 mb-4">
+                <h5 class="mb-4">タグ</h5>
+                <ul class="list-inline">
+                    <li class="list-inline-item"><a href="/tags/new/" class="btn btn-sm btn-primary-soft"><span style="font-size: small;color: #FF5722;">最新情報</span></a></li>
+                    <li class="list-inline-item"><a href="/tags/ニュース/" class="btn btn-sm btn-warning-soft"><span style="font-size: small;color: #FF5722;">ニュース</span></a></li>
+                    {{/*
+                    <li class="list-inline-item"><a href="/tags/卓球の技/" class="btn btn-sm btn-success-soft"><span style="font-size: small;color: #FF5722;">卓球の技</span></a></li> */}} {{/*
+                    <li class="list-inline-item"><a href="/tags/卓球試合/" class="btn btn-sm btn-danger-soft"><span style="font-size: small;color: #FF5722;">卓球試合</span></a></li> */}}
+                </ul>
+            </div>
 
-			<!-- Footer Widget -->
-			<div class="col-sm-6 col-lg-2 mb-4">
-				<h5 class="mb-4">SNS</h5>
-				<ul class="nav flex-column">
-					<li class="nav-item"><a class="nav-link pt-0" href="{{ $url_insta }}" target="_blank"><i class="fab fa-brands fa-instagram-square fa-fw me-2 text-instagram"></i>Instagram</a></li>
-					<li class="nav-item"><a class="nav-link" href="{{ $url_twit }}" target="_blank"><i class="fab fa-twitter-square fa-fw me-2 text-twitter"></i>Twitter</a></li>
-					{{/* <li class="nav-item"><a class="nav-link" href="#" target="_blank"><i class="fab fa-youtube-square fa-fw me-2 text-youtube"></i>YouTube</a></li> */}}
-					{{/* <li class="nav-item"><a class="nav-link" href="#" target="_blank"><i class="fab fa-facebook-square fa-fw me-2 text-facebook"></i>Facebook</a></li> */}}
-				</ul>
-			</div>
-		</div>
-		<!-- Widgets END -->
-	</div>
+            <!-- Footer Widget -->
+            <div class="col-sm-6 col-lg-2 mb-4">
+                <h5 class="mb-4">SNS</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item"><a class="nav-link pt-0" href="{{ $url_insta }}" target="_blank"><i class="fab fa-brands fa-instagram-square fa-fw me-2 text-instagram"></i>Instagram</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ $url_twit }}" target="_blank"><i class="fab fa-twitter-square fa-fw me-2 text-twitter"></i>Twitter</a></li>
+                    {{/*
+                    <li class="nav-item"><a class="nav-link" href="#" target="_blank"><i class="fab fa-youtube-square fa-fw me-2 text-youtube"></i>YouTube</a></li> */}} {{/*
+                    <li class="nav-item"><a class="nav-link" href="#" target="_blank"><i class="fab fa-facebook-square fa-fw me-2 text-facebook"></i>Facebook</a></li> */}}
+                </ul>
+            </div>
+        </div>
+        <!-- Widgets END -->
+    </div>
 </footer>
