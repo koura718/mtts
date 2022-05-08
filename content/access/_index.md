@@ -1,5 +1,5 @@
 ---
-title: "アクセス"
+title: "アクセス・お問合せ"
 date: 2022-03-28T12:15:51+09:00
 draft: false
 categories: ["", ""]

@@ -20,7 +20,7 @@ sitemap:
         <img class="rounded" src="/images/blog/kk-01.jpg" alt="小早川 恒太">
         <!-- Hero info -->
       </div>
-      <div class="col-lg-5">
+      <div class="col-lg-6">
         <!-- Hero title -->
         <p><span class="badge btn-primary btn-small me-1">Stuff</span> 水城TTS コーチ</p>
         <h1 class="display-6">小早川 恒太</h1>
@@ -36,9 +36,9 @@ sitemap:
       </div>
     </div>
     <div class="row g-4 align-items-center justify-content-between pb-lg-5">
-      <div class="col-lg-10 mt-4 position-relative">
+      <div class="col-lg-12 mt-4 position-relative">
         <table class="table caption-top">
-        <caption class="text-primary border-primary">経歴</caption>
+        <caption class="text-primary border-primary h5">経歴</caption>
         <!-- <thead>
             <tr>
             <th scope="col" width="30%">出身</th>
@@ -47,8 +47,8 @@ sitemap:
         </thead> -->
         <tbody class="text-primary border-primary">
             <tr>
-            <td>平野中学校</td>
-            <td>卓球部</td>
+            <td width="60%">平野中学校</td>
+            <td width="40%">卓球部</td>
             </tr>
             <tr>
             <td>東福岡高校</td>
@@ -63,41 +63,60 @@ sitemap:
       </div>
     </div>
     <div class="row g-4 align-items-center justify-content-between pb-lg-5">
-      <div class="col-lg-10 mt-4 position-relative">
+      <div class="col-lg-12 mt-4 position-relative">
+        <h5>戦績</h5>
         <table class="table caption-top">
-        <caption class="text-primary border-primary">戦績</caption>
-        <!-- <thead>
-            <tr>
-            <th scope="col" width="60%">大会</th>
-            <th colspan="1" scope="col"  width="40%">成績</th>
-            </tr>
-        </thead> -->
         <tbody class="text-primary border-primary">
             <tr>
             <th colspan="2">大学</th>
             </tr>
             <tr>
-            <td>東海学生卓球選手権大会</td>
-            <td>ダブルス準優勝</td>
+            <td width="60%">東海学生卓球選手権大会</td>
+            <td width="40%">ダブルス準優勝</td>
+            </tr>
+            <tr>
+            <td>岐阜県団体卓球選手権大会</td>
+            <td>優勝</td>
             </tr>
             <tr>
             <td>岐阜県卓球選手権大会</td>
             <td>ダブルス優勝</td>
             </tr>
             <tr>
+            <td>全日本大学総合卓球選手権大会（インカレ）</td>
+            <td>ベスト16</td>
+            </tr>
+            <tr>
             <td>全日本卓球選手権大会</td>
             <td>出場</td>
             </tr>
             <tr>
+        </tbody>
+        </table>
+        <table class="table caption-top">
+        <tbody class="text-primary border-primary">
+            <tr>
             <th colspan="2">社会人</th>
             </tr>
             <tr>
-            <td>福岡県全九州卓球選手権大会</td>
-            <td>シングルス優勝</td>
+            <td width="60%">福岡県全九州卓球選手権大会</td>
+            <td width="40%">シングルス優勝</td>
             </tr>
             <tr>
-            <td class="small">福岡県全日本社会人卓球選手権大会</td>
+            <td>福岡県全日本社会人卓球選手権大会</td>
             <td>シングルス優勝<br />ダブルス優勝</td>
+            </tr>
+            <tr>
+            <td>福岡県卓球選手権大会</td>
+            <td>シングルス優勝<br />ダブルス優勝</td>
+            </tr>
+            <tr>
+            <td>福岡市民選手権卓球大会</td>
+            <td>シングルス優勝<br />ダブルス優勝</td>
+            </tr>
+            <tr>
+            <td>福岡市社会人卓球大会</td>
+            <td>シングルス優勝</td>
             </tr>
         </tbody>
         </table>

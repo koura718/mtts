@@ -1,11 +1,11 @@
 ---
-title: "教室紹介"
+title: "教室案内"
 date: 2022-03-28T12:15:51+09:00
 draft: false
 categories: ["", ""]
 description: ""
 image: ""
-tags: ["教室紹介", ""]
+tags: ["教室案内", ""]
 author: "水城卓球スクール"
 sitemap:
     changefreq: weekly

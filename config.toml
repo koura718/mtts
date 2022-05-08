@@ -78,7 +78,7 @@ googleAnalytics = "G-3TWHXLJHKQ"
     identifier = 'school'
     url = "/school/"
     pre = '<i class="fa-solid fa-school"></i>'
-    name = "教室紹介"
+    name = "教室案内"
     weight = 2
   [[menu.main]]
     identifier = 'schedule'

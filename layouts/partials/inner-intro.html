@@ -1,63 +1,27 @@
-{{ $_img := default "114-1.jpg" "114-1.jpg" }}
-{{ $_avatar := default "118-1.jpg" "118-1.jpg" }}
-
-{{ if in .Permalink "school" }}
-  {{ $_img = "115.jpg" }}
-  {{ $_avatar = "118-1.jpg" }}
-{{ else if in .Permalink "about" }}
-  {{ $_img = "102.jpg" }}
-  {{ $_avatar = "118-1.jpg" }}
-{{ else if in .Permalink "stuff" }}
-  {{ $_img = "kk-03.jpg" }}
-  {{ $_avatar = "118-1.jpg" }}
-{{ else if in .Permalink "schedule" }}
-  {{ $_img = "116.jpg" }}
-  {{ $_avatar = "118-1.jpg" }}
-{{ else if in .Permalink "access" }}
-  {{ $_img = "118-1.jpg" }}
-  {{ $_avatar = "118-1.jpg" }}
-{{ else if in .Permalink "post" }}
-  {{ $_img = "115-4.jpg" }}
-  {{ $_avatar = "118-1.jpg" }}
-{{ else if in .Permalink "contact" }}
-  {{ $_img = "118-1.jpg" }}
-  {{ $_avatar = "118-1.jpg" }}
-{{ end }}
+{{ $_img := default "114-1.jpg" "114-1.jpg" }} {{ $_avatar := default "118-1.jpg" "118-1.jpg" }} {{ if in .Permalink "school" }} {{ $_img = "115.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "about" }} {{ $_img = "102.jpg" }} {{ $_avatar
+= "118-1.jpg" }} {{ else if in .Permalink "stuff" }} {{ $_img = "kk-03.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "schedule" }} {{ $_img = "116.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "access" }} {{ $_img = "118-1.jpg"
+}} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "post" }} {{ $_img = "115-4.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "contact" }} {{ $_img = "118-1.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ end }}
 
 <!-- =======================
 Inner intro START -->
 <section class="p-0">
-	<div class="container-fluid h-100 p-0 bg-dark">
-		<div class="row">
-      <div class="col-12">
-        <!-- div class="card bg-dark-overlay-5 overflow-hidden card-bg-scale h-200 text-center" style="background-image:url(/images/blog/{{$_img}}); background-position: center left; background-size: cover;" -->
-        <div class="card bg-dark-overlay-5 overflow-hidden card-bg-scale h-200 text-center" style="background-image:url(/images/blog/{{$_img}}); background-position: center left;  background-size: cover;">
-          <!-- Card Image overlay -->
-          <div class="card-img-overlay d-flex align-items-center p-0 p-sm-4">
-            <div class="w-100 my-auto">
-              <!-- Card category -->
-              <!-- Card title -->
-              <h2 class="text-white display-5">{{ .Title }}</h2>
-              <!-- Card info -->
-              <ul class="nav nav-divider text-white-force align-items-center justify-content-center">
-                <li class="nav-item">
-                  <div class="nav-link">
-                    <div class="d-flex align-items-center text-white position-relative">
-                      <div class="avatar avatar-sm">
-                        <img class="avatar-img rounded-circle" src="/images/blog/{{$_avatar}}" alt="avatar">
-                      </div>
-                      <span class="ms-3">by <a href="#" class="stretched-link text-reset btn-link">K.KOBAYAKAWA</a></span>
+    <div class="container-fluid h-100 p-0 bg-dark">
+        <div class="row">
+            <div class="col-12">
+                <!-- div class="card bg-dark-overlay-5 overflow-hidden card-bg-scale h-200 text-center" style="background-image:url(/images/blog/{{$_img}}); background-position: center left; background-size: cover;" -->
+                <div class="card bg-dark-overlay-5 overflow-hidden card-bg-scale h-200 text-center" style="background-image:url(/images/blog/{{$_img}}); background-position: center left;  background-size: cover;">
+                    <!-- Card Image overlay -->
+                    <div class="card-img-overlay d-flex align-items-center p-0 p-sm-4">
+                        <div class="w-100 my-auto">
+                            <!-- Card category -->
+                            <!-- Card title -->
+                            <h2 class="text-white display-5">{{ .Title }}</h2>
+                        </div>
                     </div>
-                  </div>
-                </li>
-                <li class="nav-item">Mizuki Table Tennis School</li>
-              </ul>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
     </div>
-	</div>
 </section>
 <!-- =======================
 Inner intro END -->
