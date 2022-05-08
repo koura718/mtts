@@ -16,52 +16,52 @@ sitemap:
 
 <div>
     <div class="col-lg-10 mt-4 position-relative">
-        <table class="table caption-top text-primary border-primary">
+        <table class="table caption-top text-primary border-primary table-bordered">
         <caption class="h5 text-primary">週間スケジュール</caption>
         <thead class="border-primary">
             <tr>
-            <th scope="col" width="6%">時間</th>
-            <th scope="col" width="9%">10:00-12:00</th>
-            <th scope="col" width="9%">13:30-16:30</th>
-            <th scope="col" width="9%">18:00-21:00</th>
+            <th scope="col" width="6%" class="text-center">時間</th>
+            <th scope="col" width="9%" class="text-center">10:00-12:00</th>
+            <th scope="col" width="9%" class="text-center">13:30-16:30</th>
+            <th scope="col" width="9%" class="text-center">18:00-21:00</th>
             </tr>
         </thead>
         <tbody class="border-primary">
             <tr>
-            <td>月</td>
+            <td class="text-center">月</td>
             <td><span style="font-size: small;">大人教室</span></td>
-            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人ﾚｯｽﾝ</span><br />or<br />貸出</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人レッスン</span><br />or<br />貸出</span></td>
             <td><span style="font-size: small;">ジュニア教室</span></td>
             </tr>
             <tr>
-            <td>火</td>
+            <td class="text-center">火</td>
             <td><span style="font-size: small;">大人教室</span></td>
             <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">大人教室</span><br />(15:30迄)</span></td>
             <td><span style="font-size: small;">ジュニア教室</span></td>
             </tr>
             <tr>
-            <td>水</td>
+            <td class="text-center">水</td>
             <td><span style="font-size: small;">大人教室</span></td>
-            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人ﾚｯｽﾝ</span><br />or<br />貸出</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人レッスン</span><br />or<br />貸出</span></td>
             <td><span style="font-size: small;">ジュニア教室</span></td>
             </tr>
             <tr>
-            <td>木</td>
+            <td class="text-center">木</td>
             <td><span style="font-size: small;">大人教室</span></td>
             <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">大人教室</span><br />(15:30迄)</span></td>
             <td><span style="font-size: small;">ジュニア教室</span></td>
             </tr>
-            <td>金</td>
+            <td class="text-center">金</td>
             <td><span style="font-size: small;">大人教室</span></td>
-            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人ﾚｯｽﾝ</span><br />or<br />貸出</span></td>
+            <td><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">個人レッスン</span><br />or<br />貸出</span></td>
             <td><span style="font-size: small;">ジュニア教室</span></td>
             </tr>
-            <td>土</td>
+            <td class="text-center">土</td>
             <td><span style="font-size: small;">個人レッスン</span></td>
             <td colspan="2"><span style="font-size: small;">ジュニア教室<br />　小学生 週1～5:12:30-14:30 特別:12:30-16:30
             <br />　中高生 週1～5:14:30-16:30 特別:12:30-16:30</span></td>
             </tr>
-            <td>日</td>
+            <td class="text-center">日</td>
             <td colspan="3"><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">定休日<br> or フリー開放 ※フリー開放日はSNSでお知らせ致します</span></td>
             </tr>
         </tbody>
