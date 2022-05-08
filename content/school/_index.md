@@ -58,7 +58,7 @@ Price-1 START -->
 </div>
 <div class="card-group pt-4">
     <div id="adult" class="card">
-        <img src="/images/blog/117.jpg" class="card-img-top" alt="...">
+        <img src="/images/blog/116.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">大人教室</h5>
             <ul class="list-group list-group-flush">
@@ -128,7 +128,7 @@ Price-1 END -->
 <div class="card bg-transparent mb-4">
     <div class="row">
     <div class="col-md-5">
-    <img class="rounded-3" src="/images/blog/116.jpg" alt="">
+    <img class="rounded-3" src="/images/blog/113.jpg" alt="">
     </div>
     <div class="col-md-7 mt-3 mt-md-0">
         <div class="card-body">
@@ -138,6 +138,7 @@ Price-1 END -->
             <li class="list-group-item text-primary border-primary">卓球台  4台</li>
             <li class="list-group-item text-primary border-primary">冷暖房完備</li>
             <li class="list-group-item text-primary border-primary">足腰に優しい床素材使用</li>
+            <li class="list-group-item text-primary border-primary">更衣室・休憩所・トイレ</li>
             </ul>
         </div>
         <div class="card-footer">
