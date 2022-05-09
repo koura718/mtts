@@ -1,5 +1,5 @@
-{{ $_img := default "114-1b.jpg" "114-1b.jpg" }} {{ $_avatar := default "118-1.jpg" "118-1.jpg" }} {{ if in .Permalink "school" }} {{ $_img = "115.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "about" }} {{ $_img = "102.jpg" }} {{ $_avatar
-= "118-1.jpg" }} {{ else if in .Permalink "stuff" }} {{ $_img = "kk-03.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "schedule" }} {{ $_img = "116.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "access" }} {{ $_img = "118-1.jpg"
+{{ $_img := default "115.jpg" "115.jpg" }} {{ $_avatar := default "118-1.jpg" "118-1.jpg" }} {{ if in .Permalink "school" }} {{ $_img = "115.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "about" }} {{ $_img = "102.jpg" }} {{ $_avatar =
+"118-1.jpg" }} {{ else if in .Permalink "stuff" }} {{ $_img = "kk-03.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "schedule" }} {{ $_img = "116.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "access" }} {{ $_img = "118-1.jpg"
 }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "post" }} {{ $_img = "115-4.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ else if in .Permalink "contact" }} {{ $_img = "118-1.jpg" }} {{ $_avatar = "118-1.jpg" }} {{ end }}
 
 <!-- =======================
