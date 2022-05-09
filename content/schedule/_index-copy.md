@@ -128,6 +128,45 @@ sitemap:
 <div id="personal" class="pt-4"></div>
 <hr />
 
+### 個人レッスン スケジュール
+
+<div class="card bg-transparent mb-4">
+	<div class="row">
+		<div class="col-md-12 mt-0 mt-md-0">
+            <div class="card-body">
+            <h5 class="card-title">個人レッスン</h5>
+            <p class="card-text"></p>
+            <ul class="list-group list-group-flush">
+            <li class="list-group-item text-primary border-primary">平日（月・水・金）13:30-16:30</li>
+            <li class="list-group-item text-primary border-primary">土曜 10:00-12:00</li>
+            </ul>
+            </div>
+        </div>
+	</div>
+</div>
+
+<div id="rent" class="pt-4"></div>
+<hr />
+
+### 卓球台貸出 スケジュール
+
+<div class="card bg-transparent mb-4">
+	<div class="row">
+		<div class="col-md-12 mt-0 mt-md-0">
+            <div class="card-body">
+            <h5 class="card-title">卓球台貸出</h5>
+            <p class="card-text"></p>
+            <ul class="list-group list-group-flush">
+            <li class="list-group-item text-primary border-primary">平日（月・水・金）13:30-16:30</li>
+            </ul>
+            </div>
+        </div>
+	</div>
+</div>
+
+<div id="facility" class="pt-4"></div>
+<hr />
+
 ### 施設案内
 
 <div class="card bg-transparent mb-4">
