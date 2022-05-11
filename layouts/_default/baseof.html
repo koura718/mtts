@@ -40,14 +40,11 @@
     {{ range .AlternativeOutputFormats -}}
     <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}"> {{ end -}}
 
-    <!-- GA Mizuki-tts.com -->
-    {{ partial "google_analytics_mizuki-tts.html" . }}
+    <!-- Custom -->
+    {{ partial "head-custom.html" . }}
 
     <!-- GA mtts.kora.win -->
     {{ template "_internal/google_analytics_async.html" . }}
-
-    <!-- Custom -->
-    {{ partial "head-custom.html" . }}
 </head>
 
 <body>
