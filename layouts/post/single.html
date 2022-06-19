@@ -9,7 +9,8 @@
 		</div>
 		<div class="col-md-9 mt-3 mt-md-0">
 			{{ partial "post-tags-1" . }}
-			<h4><a href="#" class="btn-link text-reset stretched-link fw-bold">{{ .Title | markdownify }}</a></h4>
+			<!-- h4><a href="#" class="btn-link text-reset stretched-link fw-bold">{{ .Title | markdownify }}</a></h4 -->
+			<h4>{{ .Title | markdownify }}</h4>
 			<div>{{ .Content }}</div>
 			<!-- Card info -->
 			<ul class="nav nav-divider align-items-center d-none d-sm-inline-block">
@@ -30,7 +31,7 @@
 </div>
 
 <article class="blog-post">
-    {{ partial "translations.html" . }}
+	{{/* partial "translations.html" . */}}
     {{ partial "related" . }}
 </article>
 

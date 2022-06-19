@@ -26,6 +26,13 @@ sitemap:
 <div class="pt-4"></div>
 <hr />
 
+#### 今月のスケジュール
+
+<a href="/images/blog/mtts_schedule.pdf"><img src="/images/blog/schedule_link2.jpg" alt="今月のスケジュール表" /></a>
+
+<div class="pt-4"></div>
+<hr />
+
 #### レディース大会 開催のご案内
 
 この度水城TTSでは、レディース大会を開催する運びとなりました。
