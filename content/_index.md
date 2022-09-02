@@ -33,6 +33,21 @@ sitemap:
 <div class="pt-4"></div>
 <hr />
 
+#### 小学生生徒 募集中
+
+今なら 無料体験実施中！
+
+「卓球を通して様々な経験を学び、
+お子様の人生に役立つような場所になるよう、
+全力で指導させて頂きます。」
+
+by 小早川コーチ
+
+<img src="/images/blog/mtts_school_bosyu.jpg" class="img-fluid" alt="小学生生徒 募集中">
+
+<div class="pt-4"></div>
+<hr />
+
 #### レディース大会 開催のご案内
 
 この度水城TTSでは、レディース大会を開催する運びとなりました。
