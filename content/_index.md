@@ -28,7 +28,7 @@ sitemap:
 
 #### 今月のスケジュール
 
-<a href="/images/blog/mtts_schedule8.pdf"><img src="/images/blog/schedule_link2.jpg" alt="今月のスケジュール表" /></a>
+<a href="/images/blog/mtts_schedule9.jpg"><img src="/images/blog/schedule_link2.jpg" alt="今月のスケジュール表" /></a>
 
 <div class="pt-4"></div>
 <hr />
