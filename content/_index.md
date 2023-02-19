@@ -58,4 +58,4 @@ by 小早川コーチ
 
 レディース大会は次の要領で開催します。
 
-<img src="/images/blog/mtts_20220522_ladys_game-1.jpg" class="img-fluid" alt="レディース大会 開催のご案内">
+<img src="/images/blog/mtts_20230219_ladys_game.png" class="img-fluid" alt="レディース大会 開催のご案内">
