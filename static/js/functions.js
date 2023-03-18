@@ -325,7 +325,7 @@ var e = {
               var sliderHoverPause = slider1.getAttribute('data-hoverpause') === 'true'; //option: true or false
               if (e.isVariableDefined(e.select('.custom-thumb'))) {
                 var sliderNavContainer = e.select('.custom-thumb');
-              } 
+              }
               var sliderLoop = slider1.getAttribute('data-loop') !== 'false'; //option: true or false
               var sliderRewind = slider1.getAttribute('data-rewind') === 'true'; //option: true or false
               var sliderAutoHeight = slider1.getAttribute('data-autoheight') === 'true'; //option: true or false
@@ -391,7 +391,7 @@ var e = {
                       }
                   }
               });
-          }); 
+          });
         }
     },
     // END: Tiny Slider
@@ -598,7 +598,7 @@ var e = {
             } else {
                 style.setAttribute('href', 'assets/css/style.css');
             }
-            
+
             localStorage.setItem("data-theme", 'light') // save theme to local storage
           }
 
@@ -677,7 +677,7 @@ var e = {
       // Vimeo
       const playerVimeo = Plyr.setup('.player-vimeo', {});
       window.player = playerVimeo;
-      
+
       // HTML video
       const playerHtmlvideo = Plyr.setup('.player-html', {
         captions: {active: true}
@@ -826,7 +826,14 @@ var e = {
       chart.render();
     }
   },
-  // END: Traffic Chart   
+  // END: Traffic Chart
 
 };
+
+var myCarousel = document.querySelector('#myCarousel');
+var carousel = new bootstrap.Carousel(myCarousel, {
+  interval: 500,
+  touch: false
+});
+
 e.init();
