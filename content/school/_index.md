@@ -18,7 +18,7 @@ sitemap:
 Price-1 START -->
 <div class="card-group">
     <div id="junior" class="card">
-        <img src="/images/blog/115-2.jpg" class="card-img-top" alt="ジュニア教室 小学生">
+        <img src="/images/blog/20230311_junior.jpg" class="card-img-top" alt="ジュニア教室 小学生">
         <div class="card-body">
             <h5 class="card-title">ジュニア教室 小学生</h5>
             <ul class="list-group list-group-flush">
