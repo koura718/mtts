@@ -43,7 +43,7 @@ sitemap:
 
 by 小早川コーチ
 
-<img src="/images/blog/mtts_school_bosyu.jpg" class="img-fluid" alt="小学生生徒 募集中">
+<img src="/images/blog/mtts_school_bosyu2.jpg" class="img-fluid" alt="小学生生徒 募集中">
 
 <div class="pt-4"></div>
 <hr />
