@@ -112,3 +112,8 @@ hugo_stats.json
 # Local Netlify folder
 .netlify/
 TODO
+
+# replit
+.replit
+replit.nix
+.replit.*
