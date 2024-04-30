@@ -22,14 +22,14 @@ Price-1 START -->
         <div class="card-body">
             <h5 class="card-title">ジュニア教室 小学生</h5>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary">週１  5,000円</li>
-            <li class="list-group-item text-primary border-primary">週２  9,000円</li>
-            <li class="list-group-item text-primary border-primary">週３ 12,000円</li>
-            <li class="list-group-item text-primary border-primary">週４ 15,000円</li>
-            <li class="list-group-item text-primary border-primary">週５ 18,000円</li>
+            <li class="list-group-item text-primary border-primary">週１(4回)  5,000円</li>
+            <li class="list-group-item text-primary border-primary">週２(8回)  9,000円</li>
+            <li class="list-group-item text-primary border-primary">週３(12回) 12,000円</li>
+            <li class="list-group-item text-primary border-primary">週４(16回) 15,000円</li>
+            <li class="list-group-item text-primary border-primary">週５(20回) 18,000円</li>
             <li class="list-group-item text-primary border-primary">特別 20,000円</li>
             </ul>
-            <p class="card-text small">※入会金 5,000円・ボール代 600円・エアコン代(6-9月/12-2月) 300円</p>
+            <p class="card-text small">※入会金 5,000円・ボール代 600円・エアコン代(6-9月) 400円</p>
             <div class="w-100 my-auto text-center"><a href="/schedule/#junior" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
         </div>
         <div class="card-footer">
@@ -41,14 +41,14 @@ Price-1 START -->
         <div class="card-body">
             <h5 class="card-title">ジュニア教室 中高生</h5>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary">週１  6,000円</li>
-            <li class="list-group-item text-primary border-primary">週２ 10,000円</li>
-            <li class="list-group-item text-primary border-primary">週３ 12,000円</li>
-            <li class="list-group-item text-primary border-primary">週４ 15,000円</li>
-            <li class="list-group-item text-primary border-primary">週５ 18,000円</li>
+            <li class="list-group-item text-primary border-primary">週１(4回)  6,000円</li>
+            <li class="list-group-item text-primary border-primary">週２(8回) 10,000円</li>
+            <li class="list-group-item text-primary border-primary">週３(12回) 12,000円</li>
+            <li class="list-group-item text-primary border-primary">週４(16回) 15,000円</li>
+            <li class="list-group-item text-primary border-primary">週５(20回) 18,000円</li>
             <li class="list-group-item text-primary border-primary">特別 20,000円</li>
             </ul>
-            <p class="card-text small">※入会金 5,000円・ボール代 600円・エアコン代(6-9月/12-2月) 300円</p>
+            <p class="card-text small">※入会金 5,000円・ボール代 600円・エアコン代(6-9月) 400円</p>
             <div class="w-100 my-auto text-center"><a href="/schedule/#junior" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
         </div>
         <div class="card-footer">

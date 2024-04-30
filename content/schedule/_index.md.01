@@ -83,8 +83,10 @@ sitemap:
             <h5 class="card-title">ジュニア教室 小学生</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary">平日 17:00-19:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週3以上） 10:00-16:30</li>
+            <li class="list-group-item text-primary border-primary">平日（週1～5 コース） 18:00-20:00</li>
+            <li class="list-group-item text-primary border-primary">平日（週6特別コース） 18:00-21:00</li>
+            <li class="list-group-item text-primary border-primary">土曜（週1～5 コース） 12:30-14:30</li>
+            <li class="list-group-item text-primary border-primary">土曜（週6特別コース） 12:30-16:30</li>
             </ul>
             </div>
         </div>
@@ -95,8 +97,10 @@ sitemap:
             <h5 class="card-title">ジュニア教室 中・高校生</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary">平日 19:00-21:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週3以上） 10:00-16:30</li>
+            <li class="list-group-item text-primary border-primary">平日（週1～5 コース）18:45-21:00</li>
+            <li class="list-group-item text-primary border-primary">平日（週6特別コース）18:00-21:00</li>
+            <li class="list-group-item text-primary border-primary">土曜（週1～5 コース）14:30-16:30</li>
+            <li class="list-group-item text-primary border-primary">土曜（週6特別コース）12:30-16:30</li>
             </ul>
             </div>
         </div>
@@ -116,13 +120,14 @@ sitemap:
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
             <li class="list-group-item text-primary border-primary">平日（月～金）10:00-12:00</li>
+            <li class="list-group-item text-primary border-primary">平日（火・木）13:30-15:30</li>
             </ul>
             </div>
         </div>
     </div>
 	<div class="row">
 		<div class="col-md-12 mt-0 mt-md-0">
-			<!-- img class="rounded-3" src="/images/blog/20230311_schedule.jpg" alt="" -->
+			<img class="rounded-3" src="/images/blog/20230311_schedule.jpg" alt="">
 		</div>
     </div>
 </div>
