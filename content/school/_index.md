@@ -27,7 +27,7 @@ Price-1 START -->
             <li class="list-group-item text-primary border-primary">週３(12回) 12,000円</li>
             <li class="list-group-item text-primary border-primary">週４(16回) 15,000円</li>
             <li class="list-group-item text-primary border-primary">週５(20回) 18,000円</li>
-            <li class="list-group-item text-primary border-primary">特別 20,000円</li>
+            <li class="list-group-item text-primary border-primary">特別(24回) 22,000円</li>
             </ul>
             <p class="card-text small">※入会金 5,000円・ボール代 600円・エアコン代(6-9月) 400円</p>
             <div class="w-100 my-auto text-center"><a href="/schedule/#junior" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
@@ -46,7 +46,7 @@ Price-1 START -->
             <li class="list-group-item text-primary border-primary">週３(12回) 12,000円</li>
             <li class="list-group-item text-primary border-primary">週４(16回) 15,000円</li>
             <li class="list-group-item text-primary border-primary">週５(20回) 18,000円</li>
-            <li class="list-group-item text-primary border-primary">特別 20,000円</li>
+            <li class="list-group-item text-primary border-primary">特別(24回) 22,000円</li>
             </ul>
             <p class="card-text small">※入会金 5,000円・ボール代 600円・エアコン代(6-9月) 400円</p>
             <div class="w-100 my-auto text-center"><a href="/schedule/#junior" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
