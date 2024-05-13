@@ -1,6 +1,6 @@
 ---
 title: "今月のスケジュール"
-date: 2024-03-30T00:01:00+09:00
+date: 2024-04-30T00:01:00+09:00
 draft: false
 categories: ["卓球ニュース", "イベント"]
 description: ""
@@ -9,4 +9,4 @@ tags: ["スケジュール", "New"]
 author: "水城卓球スクール"
 ---
 
-<a class="" href="/images/blog/mtts_schedule04.pdf"><img src="/images/blog/2024_04.jpg" alt="今月のスケジュール表" /></a>
+<a class="" href="/images/blog/mtts_schedule05.pdf"><img src="/images/blog/2024_05.jpg" alt="今月のスケジュール表" /></a>
