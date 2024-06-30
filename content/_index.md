@@ -1,5 +1,5 @@
 ---
-title: "水城卓球スクール 太宰府市卓球場"
+title: "水城卓球スクール 筑紫野市卓球場"
 date: 2024-05-03T00:01:00+09:00
 draft: false
 categories: ["", ""]
@@ -14,7 +14,7 @@ sitemap:
 
 #### 水城TTS (水城卓球スクール)とは
 
-  令和4年5月に太宰府市にオープンした卓球場です！
+  令和4年5月 太宰府市にオープンし、令和6年7月 筑紫野市へ移転した卓球場です！
 
   卓球を始めてみたい、強くなりたい、運動不足の解消、脳の活性化を図りたい、友達を増やしたい等など！
   それぞれの目的にあった指導を心掛けています。
@@ -28,7 +28,7 @@ sitemap:
 
 #### 今月のスケジュール
 
-<a href="/images/blog/2024_06.jpg"><img src="/images/blog/schedule_link2.jpg" alt="今月のスケジュール表" /></a>
+<a href="/images/blog/2024_07.jpg"><img src="/images/blog/schedule_link2.jpg" alt="今月のスケジュール表" /></a>
 
 <div class="pt-4"></div>
 <hr />

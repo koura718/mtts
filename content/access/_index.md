@@ -21,7 +21,7 @@ sitemap:
   <img class="card-img" src="/images/blog/118.jpg" alt="Card image">
   <div class="card-img-overlay">
     <h4 class="card-title">水城TTS (水城卓球スクール)</h4>
-    <p class="card-text">818-0131 太宰府市水城3-7-20</p>
+    <p class="card-text">〒818-0059 筑紫野市塔原東3-13-27</p>
   </div>
 </div>
 
@@ -33,7 +33,7 @@ sitemap:
 <div class="w-100 my-auto text-center">
   <h4>お問合せ</h4>
   <p class="w-100 text-left" style="color: #EC6D4E">
-  <img src="/images/mtts_logo_org.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> 水城卓球スクール</br><span style="font-size: small">818-0131 太宰府市水城3-7-20</span>
+  <img src="/images/mtts_logo_org.jpg" width="30" height="30" class="d-inline-block align-top" alt=""> 水城卓球スクール</br><span style="font-size: small">〒818-0059 筑紫野市塔原東3-13-27</span>
 </p>
 </div>
   <div class="w-100 my-auto text-center">
