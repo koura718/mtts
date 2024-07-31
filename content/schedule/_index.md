@@ -135,7 +135,7 @@ sitemap:
 <div class="card bg-transparent mb-4">
 	<div class="row">
 		<div class="col-md-5">
-			<img class="rounded-3" src="/images/blog/113.jpg" alt="">
+			<img class="rounded-3" src="/images/blog/113new.jpg" alt="">
 		</div>
 		<div class="col-md-7 mt-3 mt-md-0">
         <div class="card-body">

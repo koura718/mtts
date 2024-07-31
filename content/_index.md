@@ -1,6 +1,6 @@
 ---
 title: "水城卓球スクール 筑紫野市卓球場"
-date: 2024-05-03T00:01:00+09:00
+date: 2024-07-31T00:01:00+09:00
 draft: false
 categories: ["", ""]
 description: ""
@@ -28,7 +28,7 @@ sitemap:
 
 #### 今月のスケジュール
 
-<a href="/images/blog/2024_07.jpg"><img src="/images/blog/schedule_link2.jpg" alt="今月のスケジュール表" /></a>
+<a href="/images/blog/2024_08.jpg"><img src="/images/blog/schedule_link2.jpg" alt="今月のスケジュール表" /></a>
 
 <div class="pt-4"></div>
 <hr />
@@ -43,6 +43,7 @@ sitemap:
 
 by 小早川コーチ
 
+<!-- 
 <img src="/images/blog/mtts_school_bosyu2.jpg" class="img-fluid" alt="小学生生徒 募集中">
 
 <div class="pt-4"></div>
@@ -59,3 +60,4 @@ by 小早川コーチ
 レディース大会は次の要領で開催します。
 
 <img src="/images/blog/mtts_20230219_ladys_game.png" class="img-fluid" alt="レディース大会 開催のご案内">
+-->

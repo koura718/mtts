@@ -4,7 +4,7 @@ date: 2022-04-22T16:18:18+09:00
 draft: false
 categories: ["卓球ニュース", "イベント"]
 description: ""
-image: "113.jpg"
+image: "113new.jpg"
 tags: ["ニュース", "New"]
 author: "水城卓球スクール"
 ---
