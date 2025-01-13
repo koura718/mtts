@@ -1,6 +1,6 @@
 ---
 title: "水城卓球スクール 筑紫野市卓球場"
-date: 2024-12-31T00:00:00+09:00
+date: 2025-01-13T00:00:00+09:00
 draft: false
 categories: ["", ""]
 description: ""
