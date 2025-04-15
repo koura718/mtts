@@ -38,7 +38,7 @@ Price-1 START -->
         </div>
     </div>
     <div class="card">
-        <img src="/images/blog/115.jpg" class="card-img-top" alt="ジュニア教室 中高生">
+        <img src="/images/blog/115new.jpg" class="card-img-top" alt="ジュニア教室 中高生">
         <div class="card-body">
             <h5 class="card-title">ジュニア教室 中高生</h5>
             <ul class="list-group list-group-flush">
