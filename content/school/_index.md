@@ -74,7 +74,7 @@ Price-1 START -->
         </div>
     </div>
     <div id="personal" class="card">
-        <img src="/images/blog/115-5.jpg" class="card-img-top" alt="...">
+        <img src="/images/blog/115-5a.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">個人レッスン</h5>
             <ul class="list-group list-group-flush">
