@@ -45,10 +45,18 @@ by 小早川コーチ
 
 <!-- 
 <img src="/images/blog/mtts_school_bosyu2.jpg" class="img-fluid" alt="小学生生徒 募集中">
+-->
 
 <div class="pt-4"></div>
 <hr />
 
+#### ラージボール教室 開催のご案内
+
+この度水城TTSでは、ラージボール教室を開講する運びとなりました。
+
+<img src="/images/blog/r7_anai_edu_.jpg" class="img-fluid" alt="ラージボール教室 募集中">
+
+<!-- 
 #### レディース大会 開催のご案内
 
 この度水城TTSでは、レディース大会を開催する運びとなりました。

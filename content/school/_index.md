@@ -91,6 +91,40 @@ Price-1 START -->
         </div>
     </div>
 </div>
+<div class="card-group pt-4">
+    <div id="large-1" class="card">
+        <img src="/images/blog/116new.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">ラージボール教室</h5>
+            <ul class="list-group list-group-flush">
+            <li class="list-group-item text-primary border-primary"> 毎月土曜日（２回）</li>
+            <li class="list-group-item text-primary border-primary"> 10:00-12:00 1,500円</li>
+            <li class="list-group-item text-primary border-primary"> 問合せ：穴井コーチ (携帯 090-7394-9082)</li>
+            </ul>
+            <p class="card-text small">※初月8月は500円で教室を受講できます<br />※開催日：8/2,16 9/6,27 10/11,25 11/8,22 12/6,20</p>
+            <div class="w-100 my-auto text-center"><a href="/schedule/#adult" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
+        </div>
+        <div class="card-footer">
+            <small class="text-muted"></small>
+        </div>
+    </div>
+    <div id="large-2" class="card">
+        <img src="/images/blog/115-5a.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">ラージボール個人レッスン</h5>
+            <ul class="list-group list-group-flush">
+            <li class="list-group-item text-primary border-primary"> 会員・非会員  30分 2,000円</li>
+            <li class="list-group-item text-primary border-primary"> 会員・非会員  60分 3,500円</li>
+            <li class="list-group-item text-primary border-primary"> 問合せ：穴井コーチ (携帯 090-7394-9082)</li>
+            </ul>
+            <p class="card-text small">※卓球台使用料を含む</p>
+            <div class="w-100 my-auto text-center"><a href="/schedule/#personal" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
+        </div>
+        <div class="card-footer">
+            <small class="text-muted"></small>
+        </div>
+    </div>
+</div>
 <div class="card-group">
     <div class="card">
         <img src="/images/blog/113new.jpg" class="card-img-top" alt="...">

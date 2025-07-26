@@ -247,3 +247,74 @@ sitemap:
     </div>
   </div>
 </section>
+<section>
+  <div class="container">
+    <div class="row g-4 align-items-center justify-content-between pb-lg-5">
+      <div class="col-lg-6 mt-0 position-relative">
+        <!-- Hero image -->
+        <img class="rounded" src="/images/blog/r7_anai_1280x1280.jpg" alt="穴井 佑二郎">
+        <!-- Hero info -->
+      </div>
+      <div class="col-lg-6">
+        <!-- Hero title -->
+        <p>
+          <span class="badge btn-primary btn-small me-1">Stuff</span> 水城TTS コーチ
+        </p>
+        <h2 class="display-6">穴井 佑二郎</h2>
+        <p>Anai Yujiro<br />ラージボール・ジュニア担当コーチ</p>
+        <!-- Listen on -->
+        <ul class="list-unstyled d-flex gap-1 gap-sm-2 align-items-center mt-4">
+          <!-- li class="h5 mb-0">SNS:</li>
+          <li class="ms-1">
+            <a href="{{< val url_insta >}}" target="_blank">
+              <i class="fa-brands fa-instagram-square"></i>
+            </a>
+          </li>
+          <li class="ms-1">
+            <a href="{{< val url_twit >}}" target="_blank">
+              <i class="fa-brands fa-twitter-square"></i>
+            </a>
+          </li -->
+          <!-- li class="ms-1">
+            <a href="#">
+              <i class="fa-brands fa-line"></i>
+            </a>
+          </li -->
+          <!-- li class="ms-1">
+            <a href="#">
+              <i class="fa-brands fa-facebook-square"></i>
+            </a>
+          </li -->
+        </ul>
+      </div>
+    </div>
+    <!-- div class="row g-4 align-items-center justify-content-between pb-lg-5">
+      <div class="col-lg-12 mt-4 position-relative">
+        <table class="table caption-top">
+          <caption class="text-primary border-primary h5">経歴</caption>
+          <tbody class="text-primary border-primary">
+            <tr>
+              <td>近畿大学附属福岡高校</td>
+              <td>卓球部 主将</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div -->
+    <div class="row g-4 align-items-center justify-content-between pb-lg-5">
+      <div class="col-lg-12 mt-4 position-relative">
+        <h5>戦績</h5>
+        <table class="table caption-top">
+          <tbody class="text-primary border-primary">
+            <tr>
+              <td>第38回全国ラージボール大会</td>
+              <td>
+                一般シングルス福岡県代表
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>
