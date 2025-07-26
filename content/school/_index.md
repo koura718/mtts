@@ -18,7 +18,7 @@ sitemap:
 Price-1 START -->
 <div class="card-group">
     <div id="junior" class="card">
-        <img src="/images/blog/119.jpg" class="card-img-top" alt="ジュニア教室 小学生">
+        <img src="/images/blog/115-5a.jpg" class="card-img-top" alt="ジュニア教室 小学生">
         <!-- img src="/images/blog/20230311_junior.jpg" class="card-img-top" alt="ジュニア教室 小学生" -->
         <div class="card-body">
             <h5 class="card-title">ジュニア教室 小学生</h5>
@@ -95,7 +95,7 @@ Price-1 START -->
     <div id="large-1" class="card">
         <img src="/images/blog/116new.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">ラージボール教室</h5>
+            <h5 class="card-title">穴井ラージボール教室</h5>
             <ul class="list-group list-group-flush">
             <li class="list-group-item text-primary border-primary"> 毎月土曜日（２回）</li>
             <li class="list-group-item text-primary border-primary"> 10:00-12:00 1,500円</li>
@@ -109,9 +109,9 @@ Price-1 START -->
         </div>
     </div>
     <div id="large-2" class="card">
-        <img src="/images/blog/115-5a.jpg" class="card-img-top" alt="...">
+        <img src="/images/blog/119.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-            <h5 class="card-title">ラージボール個人レッスン</h5>
+            <h5 class="card-title">穴井ラージボール個人レッスン</h5>
             <ul class="list-group list-group-flush">
             <li class="list-group-item text-primary border-primary"> 会員・非会員  30分 2,000円</li>
             <li class="list-group-item text-primary border-primary"> 会員・非会員  60分 3,500円</li>

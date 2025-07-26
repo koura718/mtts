@@ -307,12 +307,18 @@ sitemap:
         <table class="table caption-top">
           <tbody class="text-primary border-primary">
             <tr>
-              <th colspan="2">&nbsp;</th>
+              <th colspan="2">社会人</th>
             </tr>
             <tr>
               <td>第38回全国ラージボール大会</td>
               <td>
                 一般シングルス福岡県代表
+              </td>
+            </tr>
+            <tr>
+              <td>全日本社会人</td>
+              <td>
+                出場
               </td>
             </tr>
           </tbody>
