@@ -307,6 +307,9 @@ sitemap:
         <table class="table caption-top">
           <tbody class="text-primary border-primary">
             <tr>
+              <th colspan="2">&nbsp;</th>
+            </tr>
+            <tr>
               <td>第38回全国ラージボール大会</td>
               <td>
                 一般シングルス福岡県代表
