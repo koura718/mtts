@@ -101,7 +101,7 @@ Price-1 START -->
             <li class="list-group-item text-primary border-primary"> 10:00-12:00 1,500円</li>
             <li class="list-group-item text-primary border-primary"> 問合せ：穴井コーチ (携帯 090-7394-9082)</li>
             </ul>
-            <p class="card-text small">※初月8月は500円で教室を受講できます<br />※開催日：8/2,16 9/6,27 10/11,25 11/8,22 12/6,20</p>
+            <p class="card-text small">※初月8月は500円で教室を受講できます<br />※開催日：8/2,16 9/6,27 10/25 11/8,22 12/6,20</p>
             <div class="w-100 my-auto text-center"><a href="/schedule/#adult" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
         </div>
         <div class="card-footer">
