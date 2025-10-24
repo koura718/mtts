@@ -80,11 +80,11 @@ sitemap:
 	<div class="row">
 		<div class="col-md-12 mt-0 mt-md-0">
             <div class="card-body">
-            <h5 class="card-title">ジュニア教室 小学生</h5>
+            <h5 class="card-title">小学生 選手コース</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary">平日 17:00-19:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週3以上） 10:00-16:30</li>
+            <li class="list-group-item text-primary">平日 17:00-19:00<br />土曜（週3以上） 13:00-18:00</li>
+            <!-- li class="list-group-item text-primary"></li -->
             </ul>
             </div>
         </div>
@@ -92,11 +92,23 @@ sitemap:
 	<div class="row">
 		<div class="col-md-12 mt-0 mt-md-0">
             <div class="card-body">
-            <h5 class="card-title">ジュニア教室 中・高校生</h5>
+            <h5 class="card-title">小学生 初級者コース</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary">平日 19:00-21:00</li>
-            <li class="list-group-item text-primary border-primary">土曜（週3以上） 10:00-16:30</li>
+            <li class="list-group-item text-primary border-primary">火・水・金 17:00-18:30<br />土曜（週3以上） 13:00-18:00</li>
+            <!-- li class="list-group-item text-primary"></li -->
+            </ul>
+            </div>
+        </div>
+    </div>
+	<div class="row">
+		<div class="col-md-12 mt-0 mt-md-0">
+            <div class="card-body">
+            <h5 class="card-title">中・高校生教室</h5>
+            <p class="card-text"></p>
+            <ul class="list-group list-group-flush">
+            <li class="list-group-item text-primary border-primary">平日 19:00-21:00<br />土曜（週3以上） 13:00-18:00</li>
+            <!-- li class="list-group-item text-primary"></li -->
             </ul>
             </div>
         </div>
