@@ -92,17 +92,18 @@ Price-1 START -->
     </div>
 </div>
 <div class="card-group pt-4">
-    <div id="large-1" class="card">
+    <div id="largeball" class="card">
         <img src="/images/blog/116new.jpg" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">穴井ラージボール教室</h5>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary"> 毎月土曜日（２回）</li>
+            <li class="list-group-item text-primary border-primary"> 月1～2回開催</li>
+            <li class="list-group-item text-primary border-primary"> 開催日 1/24,2/7,2/28/,3/14,3/28,4/11,4/25,5/30,6/20,7/25</li>
             <li class="list-group-item text-primary border-primary"> 10:00-12:00 1,500円</li>
             <li class="list-group-item text-primary border-primary"> 問合せ：穴井コーチ (携帯 090-7394-9082)</li>
             </ul>
-            <p class="card-text small">※初月8月は500円で教室を受講できます<br />※開催日：8/2,16 9/6,27 10/25 11/8,22 12/6,20</p>
-            <div class="w-100 my-auto text-center"><a href="/schedule/#adult" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
+            <!-- p class="card-text small">※初月1月は1500円で教室を受講できます<br />※開催日：1/24,2/7,2/28/,3/14,3/28,4/11,4/25,5/30,6/20,7/25</p -->
+            <div class="w-100 my-auto text-center"><a href="/schedule/#largeball" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
         </div>
         <div class="card-footer">
             <small class="text-muted"></small>
@@ -118,7 +119,7 @@ Price-1 START -->
             <li class="list-group-item text-primary border-primary"> 問合せ：穴井コーチ (携帯 090-7394-9082)</li>
             </ul>
             <p class="card-text small">※卓球台使用料を含む</p>
-            <div class="w-100 my-auto text-center"><a href="/schedule/#personal" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
+            <div class="w-100 my-auto text-center"><a href="/schedule/#largeball" class="btn btn-primary btn-small badge">スケジュールを確認する</a></div>
         </div>
         <div class="card-footer">
             <small class="text-muted"></small>

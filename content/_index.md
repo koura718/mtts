@@ -54,7 +54,7 @@ by 小早川コーチ
 
 この度水城TTSでは、ラージボール教室を開講する運びとなりました。
 
-<img src="/images/blog/r7_anai_edu_.jpg" class="img-fluid" alt="ラージボール教室 募集中">
+<img src="/images/blog/start_largeball.png" class="img-fluid" alt="ラージボール教室 募集中">
 
 <!-- 
 #### レディース大会 開催のご案内
