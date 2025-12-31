@@ -1,6 +1,6 @@
 ---
 title: "水城卓球スクール 筑紫野市卓球場"
-date: 2025-011-29T00:00:00+09:00
+date: 2025-012-30T00:00:00+09:00
 draft: false
 categories: ["", ""]
 description: ""
@@ -28,7 +28,7 @@ sitemap:
 
 #### 今月のスケジュール
 
-<a href="/images/blog/2025_12a.jpg"><img src="/images/blog/2025_12a.jpg" alt="今月のスケジュール表" /></a>
+<a href="/images/blog/2026_01.jpg"><img src="/images/blog/2026_01.jpg" alt="今月のスケジュール表" /></a>
 
 <div class="pt-4"></div>
 <hr />
