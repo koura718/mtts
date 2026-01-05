@@ -98,7 +98,7 @@ Price-1 START -->
             <h5 class="card-title">穴井ラージボール教室</h5>
             <ul class="list-group list-group-flush">
             <li class="list-group-item text-primary border-primary"> 月1～2回開催</li>
-            <li class="list-group-item text-primary border-primary"> 開催日 1/24,2/7,2/28/,3/14,3/28,4/11,4/25,5/30,6/20,7/25</li>
+            <li class="list-group-item text-primary border-primary"> 開催日 1/24,2/7,2/28/,3/14,3/28,4/11,4/25, 5/16,5/30,6/6,6/20,7/4,7/25</li>
             <li class="list-group-item text-primary border-primary"> 10:00-12:00 1,500円</li>
             <li class="list-group-item text-primary border-primary"> 問合せ：穴井コーチ (携帯 090-7394-9082)</li>
             </ul>

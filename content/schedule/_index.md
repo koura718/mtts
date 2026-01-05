@@ -1,6 +1,6 @@
 ---
 title: "スケジュール"
-date: 2022-03-28T12:15:51+09:00
+date: 2026-01-05T00:00:00+09:00
 draft: false
 categories: ["", ""]
 description: ""
@@ -22,7 +22,7 @@ sitemap:
             <tr>
             <th scope="col" width="6%" class="text-center">時間</th>
             <th scope="col" width="9%" class="text-center">10:00-12:00</th>
-            <th scope="col" width="9%" class="text-center">13:30-16:00</th>
+            <th scope="col" width="9%" class="text-center">13:00-15:30</th>
             <th scope="col" width="9%" class="text-center">17:00-21:00</th>
             </tr>
         </thead>
@@ -60,7 +60,7 @@ sitemap:
             <td colspan="1"><span style="font-size: small;">個人レッスンのみ (10:00-12:00) </span></td>
             </tr>
             <td class="text-center">土</td>
-            <td colspan="3"><span style="font-size: small;">ジュニア教室</span>(10:00-16:30) </span></td>
+            <td colspan="3"><span style="font-size: small;">ジュニア教室</span>(13:00-18:00) </span></td>
             </tr>
             <td class="text-center">日</td>
             <td colspan="3"><span style="font-size: small;"><span style="display: inline-block;white-space: nowrap;">定休日<br> or フリー開放 ※フリー開放日はSNSでお知らせ致します</span></td>
@@ -95,7 +95,7 @@ sitemap:
             <h5 class="card-title">小学生 初級者コース</h5>
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
-            <li class="list-group-item text-primary border-primary">火・水・金 17:00-18:30<br />土曜（週3以上） 13:00-18:00</li>
+            <li class="list-group-item text-primary border-primary">火・水・金 17:00-18:30</li>
             <!-- li class="list-group-item text-primary"></li -->
             </ul>
             </div>
@@ -155,9 +155,9 @@ sitemap:
             <li class="list-group-item text-primary border-primary">2月7日、2月28日</li>
             <li class="list-group-item text-primary border-primary">3月14日、3月28日</li>
             <li class="list-group-item text-primary border-primary">4月11日、4月25日</li>
-            <li class="list-group-item text-primary border-primary">5月30日</li>
-            <li class="list-group-item text-primary border-primary">6月20日</li>
-            <li class="list-group-item text-primary border-primary">7月25日</li>
+            <li class="list-group-item text-primary border-primary">5月16日、5月30日</li>
+            <li class="list-group-item text-primary border-primary">6月6日、6月20日</li>
+            <li class="list-group-item text-primary border-primary">7月4日、7月25日</li>
             </ul>
             </div>
         </div>
