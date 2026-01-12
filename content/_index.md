@@ -43,9 +43,8 @@ sitemap:
 
 by 小早川コーチ
 
-<!-- 
-<img src="/images/blog/mtts_school_bosyu2.jpg" class="img-fluid" alt="小学生生徒 募集中">
--->
+<a href="/images/blog/bosyuA4.pdf"><img src="/images/blog/bosyuA4.jpg" alt="小学生生徒 募集中" /></a>
+<img src="/images/blog/muryo.jpg" class="img-fluid" alt="小学生 入会金無料">
 
 <div class="pt-4"></div>
 <hr />
