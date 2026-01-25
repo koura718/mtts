@@ -10,8 +10,9 @@ defaultContentLanguageInSubdir = true
 defaultContentLanguage = "ja"
 
 # Pagination
-paginate = 3
-paginatePath = "page"
+[pagination]
+  pagerSize = 3
+  path = "page"
 
 # Theme to use
 theme = "hugo-bootstrap-5"
@@ -19,6 +20,11 @@ theme = "hugo-bootstrap-5"
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[params]
+  mainSections = ['post']
+  enableGA = false # 本番のみ config.production.toml で true にする
+  gtagId = "G-3TWHXLJHKQ"
 
 # Google analytics
 # googleAnalytics = ""

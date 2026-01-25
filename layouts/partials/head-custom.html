@@ -2,7 +2,10 @@
 <script src="https://kit.fontawesome.com/d3ff270fba.js" crossorigin="anonymous"></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NQC4MPJLG3"></script>
+{{- $enableGA := and (default false .Site.Params.enableGA) (eq hugo.Environment "production") -}}
+{{- $gtagId := default "" .Site.Params.gtagId -}}
+{{- if and $enableGA $gtagId -}}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $gtagId | urlquery }}"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -11,5 +14,6 @@
     }
     gtag('js', new Date());
 
-    gtag('config', 'G-NQC4MPJLG3');
+    gtag('config', '{{ $gtagId }}');
 </script>
+{{- end -}}

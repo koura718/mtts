@@ -10,8 +10,9 @@ defaultContentLanguageInSubdir = true
 defaultContentLanguage = "ja"
 
 # Pagination
-paginate = 3
-paginatePath = "page"
+[pagination]
+  pagerSize = 3
+  path = "page"
 
 # Theme to use
 theme = "hugo-bootstrap-5"
@@ -20,7 +21,7 @@ theme = "hugo-bootstrap-5"
 enableRobotsTXT = true
 
 # Google analytics
-googleAnalytics = "G-3TWHXLJHKQ"
+# googleAnalytics = "G-3TWHXLJHKQ"  # Hugo組み込みGAは使用しない（手書きgtagに統一）
 
 [taxonomies]
   tag = "tags"
@@ -28,6 +29,8 @@ googleAnalytics = "G-3TWHXLJHKQ"
 
 [params]
   mainSections = ['post']
+  enableGA = false # 本番のみ config.production.toml で true にする
+  gtagId = "G-3TWHXLJHKQ"
   title = "水城卓球TTS : 水城卓球スクール 福岡県太宰府市水城の卓球場・卓球スクール"
   description = "水城卓球TTS : 水城卓球スクール とは、令和4年5月に福岡県太宰府市水城にオープンした卓球場・卓球スクールです。"
   images = ["images/mtts_logo_org.jpg"]
