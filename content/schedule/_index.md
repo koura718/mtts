@@ -152,7 +152,7 @@ sitemap:
             <p class="card-text"></p>
             <ul class="list-group list-group-flush">
             <li class="list-group-item text-primary border-primary">1月24日</li>
-            <li class="list-group-item text-primary border-primary">2月7日、2月28日</li>
+            <li class="list-group-item text-primary border-primary">2月7日、2月21日</li>
             <li class="list-group-item text-primary border-primary">3月14日、3月28日</li>
             <li class="list-group-item text-primary border-primary">4月11日、4月25日</li>
             <li class="list-group-item text-primary border-primary">5月16日、5月30日</li>
