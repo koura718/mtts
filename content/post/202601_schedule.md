@@ -1,6 +1,6 @@
 ---
 title: "今月のスケジュール"
-date: 2025-12-30T00:00:00+09:00
+date: 2026-01-30T00:00:00+09:00
 draft: false
 categories: ["卓球ニュース", "イベント"]
 description: ""
@@ -9,4 +9,4 @@ tags: ["スケジュール", "New"]
 author: "水城卓球スクール"
 ---
 
-<a class="" href="/images/blog/mtts_schedule01.pdf"><img src="/images/blog/2026_01.jpg" alt="今月のスケジュール表" /></a>
+<a class="" href="/images/blog/2026_02.jpg"><img src="/images/blog/2026_02.jpg" alt="今月のスケジュール表" /></a>
