@@ -1,2 +1,5 @@
+baseURL = "https://mizuki-tts.com/"
+canonifyURLs = true
+
 [params]
   enableGA = true
