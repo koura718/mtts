@@ -9,4 +9,4 @@ tags: ["スケジュール", "New"]
 author: "水城卓球スクール"
 ---
 
-<a class="" href="/images/blog/2026_02.jpg"><img src="/images/blog/2026_02.jpg" alt="今月のスケジュール表" /></a>
+<a class="" href="/images/blog/2026_02a.jpg"><img src="/images/blog/2026_02a.jpg" alt="今月のスケジュール表" /></a>

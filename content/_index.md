@@ -28,7 +28,7 @@ sitemap:
 
 #### 今月のスケジュール
 
-<a href="/images/blog/2026_02.jpg"><img src="/images/blog/2026_02.jpg" alt="今月のスケジュール表" /></a>
+<a href="/images/blog/2026_02a.jpg"><img src="/images/blog/2026_02a.jpg" alt="今月のスケジュール表" /></a>
 
 <div class="pt-4"></div>
 <hr />
